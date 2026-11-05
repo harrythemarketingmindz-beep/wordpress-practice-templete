@@ -1,0 +1,5 @@
+# User-provided capture and verified upstream build inputs; staged locally.
+reference/
+# Distribution packages and previews are tracked for direct download.
+__pycache__/
+*.pyc

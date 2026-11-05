@@ -1,0 +1,4919 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Capture-based Animated Homepage",
+  "type": "page",
+  "page_settings": {
+    "template": "elementor_canvas",
+    "hide_title": "yes"
+  },
+  "content": [
+    {
+      "id": "b000000",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Header & navigation",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000000",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "header",
+            "text_items": [
+              {
+                "_id": "00t0000",
+                "label": "Home",
+                "token": "__RO_TEXT_0__",
+                "copy": "<a href=\"__RO_LINK_1__\" class=\"wpr-menu-item wpr-pointer-item wpr-active-menu-item\"><span class=\"two_elementor_element\">Home</span></a>"
+              },
+              {
+                "_id": "00t0001",
+                "label": "Services",
+                "token": "__RO_TEXT_1__",
+                "copy": "Services"
+              },
+              {
+                "_id": "00t0002",
+                "label": "01",
+                "token": "__RO_TEXT_2__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t0003",
+                "label": ".",
+                "token": "__RO_TEXT_3__",
+                "copy": "."
+              },
+              {
+                "_id": "00t0004",
+                "label": "Digital Marketing",
+                "token": "__RO_TEXT_4__",
+                "copy": "Digital Marketing"
+              },
+              {
+                "_id": "00t0005",
+                "label": "01",
+                "token": "__RO_TEXT_5__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t0006",
+                "label": "AI Optimization",
+                "token": "__RO_TEXT_6__",
+                "copy": "AI Optimization"
+              },
+              {
+                "_id": "00t0007",
+                "label": "We enhance your business visibility",
+                "token": "__RO_TEXT_7__",
+                "copy": "\n                    We enhance your business visibility\n                "
+              },
+              {
+                "_id": "00t0008",
+                "label": "\u2192",
+                "token": "__RO_TEXT_8__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0009",
+                "label": "02",
+                "token": "__RO_TEXT_9__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t000a",
+                "label": "SEO",
+                "token": "__RO_TEXT_10__",
+                "copy": "SEO"
+              },
+              {
+                "_id": "00t000b",
+                "label": "Search visibility & organic growth",
+                "token": "__RO_TEXT_11__",
+                "copy": "\n                    Search visibility & organic growth\n                "
+              },
+              {
+                "_id": "00t000c",
+                "label": "\u2192",
+                "token": "__RO_TEXT_12__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t000d",
+                "label": "03",
+                "token": "__RO_TEXT_13__",
+                "copy": "03"
+              },
+              {
+                "_id": "00t000e",
+                "label": "Performance Marketing",
+                "token": "__RO_TEXT_14__",
+                "copy": "Performance Marketing"
+              },
+              {
+                "_id": "00t000f",
+                "label": "Data-led campaigns that convert",
+                "token": "__RO_TEXT_15__",
+                "copy": "\n                    Data-led campaigns that convert\n                "
+              },
+              {
+                "_id": "00t0010",
+                "label": "\u2192",
+                "token": "__RO_TEXT_16__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0011",
+                "label": "04",
+                "token": "__RO_TEXT_17__",
+                "copy": "04"
+              },
+              {
+                "_id": "00t0012",
+                "label": "Email Marketing",
+                "token": "__RO_TEXT_18__",
+                "copy": "Email Marketing"
+              },
+              {
+                "_id": "00t0013",
+                "label": "Automation, nurture & retention",
+                "token": "__RO_TEXT_19__",
+                "copy": "\n                    Automation, nurture & retention\n                "
+              },
+              {
+                "_id": "00t0014",
+                "label": "\u2192",
+                "token": "__RO_TEXT_20__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0015",
+                "label": "05",
+                "token": "__RO_TEXT_21__",
+                "copy": "05"
+              },
+              {
+                "_id": "00t0016",
+                "label": "SEM Marketing",
+                "token": "__RO_TEXT_22__",
+                "copy": "SEM Marketing"
+              },
+              {
+                "_id": "00t0017",
+                "label": "High-intent paid search campaigns",
+                "token": "__RO_TEXT_23__",
+                "copy": "\n                    High-intent paid search campaigns\n                "
+              },
+              {
+                "_id": "00t0018",
+                "label": "\u2192",
+                "token": "__RO_TEXT_24__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0019",
+                "label": "06",
+                "token": "__RO_TEXT_25__",
+                "copy": "06"
+              },
+              {
+                "_id": "00t001a",
+                "label": "Social Media",
+                "token": "__RO_TEXT_26__",
+                "copy": "Social Media"
+              },
+              {
+                "_id": "00t001b",
+                "label": "Content, community & growth",
+                "token": "__RO_TEXT_27__",
+                "copy": "\n                    Content, community & growth\n                "
+              },
+              {
+                "_id": "00t001c",
+                "label": "\u2192",
+                "token": "__RO_TEXT_28__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t001d",
+                "label": "07",
+                "token": "__RO_TEXT_29__",
+                "copy": "07"
+              },
+              {
+                "_id": "00t001e",
+                "label": "Business Reputation Management",
+                "token": "__RO_TEXT_30__",
+                "copy": "\n                    Business Reputation Management\n                "
+              },
+              {
+                "_id": "00t001f",
+                "label": "Trust, credibility & brand authority",
+                "token": "__RO_TEXT_31__",
+                "copy": "\n                    Trust, credibility & brand authority\n                "
+              },
+              {
+                "_id": "00t0020",
+                "label": "\u2192",
+                "token": "__RO_TEXT_32__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0021",
+                "label": "02",
+                "token": "__RO_TEXT_33__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t0022",
+                "label": ".",
+                "token": "__RO_TEXT_34__",
+                "copy": "."
+              },
+              {
+                "_id": "00t0023",
+                "label": "Design",
+                "token": "__RO_TEXT_35__",
+                "copy": "Design"
+              },
+              {
+                "_id": "00t0024",
+                "label": "01",
+                "token": "__RO_TEXT_36__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t0025",
+                "label": "Brand Identity",
+                "token": "__RO_TEXT_37__",
+                "copy": "Brand Identity"
+              },
+              {
+                "_id": "00t0026",
+                "label": "Distinct brands built to be remembered",
+                "token": "__RO_TEXT_38__",
+                "copy": "\n                    Distinct brands built to be remembered\n                "
+              },
+              {
+                "_id": "00t0027",
+                "label": "\u2192",
+                "token": "__RO_TEXT_39__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0028",
+                "label": "02",
+                "token": "__RO_TEXT_40__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t0029",
+                "label": "UI/UX",
+                "token": "__RO_TEXT_41__",
+                "copy": "UI/UX"
+              },
+              {
+                "_id": "00t002a",
+                "label": "Intuitive digital experiences",
+                "token": "__RO_TEXT_42__",
+                "copy": "\n                    Intuitive digital experiences\n                "
+              },
+              {
+                "_id": "00t002b",
+                "label": "\u2192",
+                "token": "__RO_TEXT_43__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t002c",
+                "label": "03",
+                "token": "__RO_TEXT_44__",
+                "copy": "03"
+              },
+              {
+                "_id": "00t002d",
+                "label": ".",
+                "token": "__RO_TEXT_45__",
+                "copy": "."
+              },
+              {
+                "_id": "00t002e",
+                "label": "Development",
+                "token": "__RO_TEXT_46__",
+                "copy": "Development"
+              },
+              {
+                "_id": "00t002f",
+                "label": "01",
+                "token": "__RO_TEXT_47__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t0030",
+                "label": "Web Development",
+                "token": "__RO_TEXT_48__",
+                "copy": "Web Development"
+              },
+              {
+                "_id": "00t0031",
+                "label": "High-performance digital platforms",
+                "token": "__RO_TEXT_49__",
+                "copy": "\n                    High-performance digital platforms\n                "
+              },
+              {
+                "_id": "00t0032",
+                "label": "\u2192",
+                "token": "__RO_TEXT_50__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0033",
+                "label": "02",
+                "token": "__RO_TEXT_51__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t0034",
+                "label": "App Development",
+                "token": "__RO_TEXT_52__",
+                "copy": "App Development"
+              },
+              {
+                "_id": "00t0035",
+                "label": "Mobile products built to scale",
+                "token": "__RO_TEXT_53__",
+                "copy": "\n                    Mobile products built to scale\n                "
+              },
+              {
+                "_id": "00t0036",
+                "label": "\u2192",
+                "token": "__RO_TEXT_54__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0037",
+                "label": "Tailored solutions for complex needs",
+                "token": "__RO_TEXT_55__",
+                "copy": "\n                Tailored solutions for complex needs\n            "
+              },
+              {
+                "_id": "00t0038",
+                "label": "\u2192",
+                "token": "__RO_TEXT_56__",
+                "copy": "\n            \u2192\n        "
+              },
+              {
+                "_id": "00t0039",
+                "label": "04",
+                "token": "__RO_TEXT_57__",
+                "copy": "04"
+              },
+              {
+                "_id": "00t003a",
+                "label": ".",
+                "token": "__RO_TEXT_58__",
+                "copy": "."
+              },
+              {
+                "_id": "00t003b",
+                "label": "Media Production",
+                "token": "__RO_TEXT_59__",
+                "copy": "Media Production"
+              },
+              {
+                "_id": "00t003c",
+                "label": "01",
+                "token": "__RO_TEXT_60__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t003d",
+                "label": "Video Editing",
+                "token": "__RO_TEXT_61__",
+                "copy": "Video Editing"
+              },
+              {
+                "_id": "00t003e",
+                "label": "Stories brought to life through motion",
+                "token": "__RO_TEXT_62__",
+                "copy": "\n                    Stories brought to life through motion\n                "
+              },
+              {
+                "_id": "00t003f",
+                "label": "\u2192",
+                "token": "__RO_TEXT_63__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0040",
+                "label": "02",
+                "token": "__RO_TEXT_64__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t0041",
+                "label": "Animation",
+                "token": "__RO_TEXT_65__",
+                "copy": "Animation"
+              },
+              {
+                "_id": "00t0042",
+                "label": "Creative motion that gets attention",
+                "token": "__RO_TEXT_66__",
+                "copy": "\n                    Creative motion that gets attention\n                "
+              },
+              {
+                "_id": "00t0043",
+                "label": "\u2192",
+                "token": "__RO_TEXT_67__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0044",
+                "label": "Our Products",
+                "token": "__RO_TEXT_68__",
+                "copy": "Our Products"
+              },
+              {
+                "_id": "00t0045",
+                "label": "01",
+                "token": "__RO_TEXT_69__",
+                "copy": "\n                        01\n                    "
+              },
+              {
+                "_id": "00t0046",
+                "label": "PLATFORM",
+                "token": "__RO_TEXT_70__",
+                "copy": "\n                        PLATFORM\n                    "
+              },
+              {
+                "_id": "00t0047",
+                "label": "Rankorbit.ai",
+                "token": "__RO_TEXT_71__",
+                "copy": "\n                        Rankorbit.ai\n                    "
+              },
+              {
+                "_id": "00t0048",
+                "label": "Rankorbit.ai",
+                "token": "__RO_TEXT_72__",
+                "copy": "\n                                Rankorbit.ai\n                            "
+              },
+              {
+                "_id": "00t0049",
+                "label": "AI-powered growth and marketing platform",
+                "token": "__RO_TEXT_73__",
+                "copy": "\n                                AI-powered growth and marketing platform\n                            "
+              },
+              {
+                "_id": "00t004a",
+                "label": "\u2192",
+                "token": "__RO_TEXT_74__",
+                "copy": "\n                            \u2192\n                        "
+              },
+              {
+                "_id": "00t004b",
+                "label": "02",
+                "token": "__RO_TEXT_75__",
+                "copy": "\n                        02\n                    "
+              },
+              {
+                "_id": "00t004c",
+                "label": "PLATFORM",
+                "token": "__RO_TEXT_76__",
+                "copy": "\n                        PLATFORM\n                    "
+              },
+              {
+                "_id": "00t004d",
+                "label": "NAP Orbit",
+                "token": "__RO_TEXT_77__",
+                "copy": "\n                        NAP Orbit\n                    "
+              },
+              {
+                "_id": "00t004e",
+                "label": "NAP Orbit",
+                "token": "__RO_TEXT_78__",
+                "copy": "\n                                NAP Orbit\n                            "
+              },
+              {
+                "_id": "00t004f",
+                "label": "We get your business onto every map",
+                "token": "__RO_TEXT_79__",
+                "copy": "\n                               We get your business onto every map\n                            "
+              },
+              {
+                "_id": "00t0050",
+                "label": "\u2192",
+                "token": "__RO_TEXT_80__",
+                "copy": "\n                            \u2192\n                        "
+              },
+              {
+                "_id": "00t0051",
+                "label": "About",
+                "token": "__RO_TEXT_81__",
+                "copy": "<a href=\"__RO_LINK_20__\" class=\"wpr-menu-item wpr-pointer-item\"><span class=\"two_elementor_element\">About</span></a>"
+              },
+              {
+                "_id": "00t0052",
+                "label": "Contact Us",
+                "token": "__RO_TEXT_82__",
+                "copy": "<a href=\"__RO_LINK_21__\" class=\"wpr-menu-item wpr-pointer-item\"><span class=\"two_elementor_element\">Contact Us</span></a>"
+              },
+              {
+                "_id": "00t0053",
+                "label": "Co Partners",
+                "token": "__RO_TEXT_83__",
+                "copy": "<a href=\"__RO_LINK_22__\" class=\"wpr-menu-item wpr-pointer-item\"><span class=\"two_elementor_element\">Co Partners</span></a>"
+              },
+              {
+                "_id": "00t0054",
+                "label": "Blog",
+                "token": "__RO_TEXT_84__",
+                "copy": "<a href=\"__RO_LINK_23__\" class=\"wpr-menu-item wpr-pointer-item\"><span class=\"two_elementor_element\">Blog</span></a>"
+              },
+              {
+                "_id": "00t0055",
+                "label": "Home",
+                "token": "__RO_TEXT_85__",
+                "copy": "<a href=\"__RO_LINK_24__\" class=\"wpr-mobile-menu-item wpr-active-menu-item\">Home</a>"
+              },
+              {
+                "_id": "00t0056",
+                "label": "01",
+                "token": "__RO_TEXT_86__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t0057",
+                "label": ".",
+                "token": "__RO_TEXT_87__",
+                "copy": "."
+              },
+              {
+                "_id": "00t0058",
+                "label": "Digital Marketing",
+                "token": "__RO_TEXT_88__",
+                "copy": "Digital Marketing"
+              },
+              {
+                "_id": "00t0059",
+                "label": "01",
+                "token": "__RO_TEXT_89__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t005a",
+                "label": "AI Optimization",
+                "token": "__RO_TEXT_90__",
+                "copy": "AI Optimization"
+              },
+              {
+                "_id": "00t005b",
+                "label": "We enhance your business visibility",
+                "token": "__RO_TEXT_91__",
+                "copy": "\n                    We enhance your business visibility\n                "
+              },
+              {
+                "_id": "00t005c",
+                "label": "\u2192",
+                "token": "__RO_TEXT_92__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t005d",
+                "label": "02",
+                "token": "__RO_TEXT_93__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t005e",
+                "label": "SEO",
+                "token": "__RO_TEXT_94__",
+                "copy": "SEO"
+              },
+              {
+                "_id": "00t005f",
+                "label": "Search visibility & organic growth",
+                "token": "__RO_TEXT_95__",
+                "copy": "\n                    Search visibility & organic growth\n                "
+              },
+              {
+                "_id": "00t0060",
+                "label": "\u2192",
+                "token": "__RO_TEXT_96__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0061",
+                "label": "03",
+                "token": "__RO_TEXT_97__",
+                "copy": "03"
+              },
+              {
+                "_id": "00t0062",
+                "label": "Performance Marketing",
+                "token": "__RO_TEXT_98__",
+                "copy": "Performance Marketing"
+              },
+              {
+                "_id": "00t0063",
+                "label": "Data-led campaigns that convert",
+                "token": "__RO_TEXT_99__",
+                "copy": "\n                    Data-led campaigns that convert\n                "
+              },
+              {
+                "_id": "00t0064",
+                "label": "\u2192",
+                "token": "__RO_TEXT_100__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0065",
+                "label": "04",
+                "token": "__RO_TEXT_101__",
+                "copy": "04"
+              },
+              {
+                "_id": "00t0066",
+                "label": "Email Marketing",
+                "token": "__RO_TEXT_102__",
+                "copy": "Email Marketing"
+              },
+              {
+                "_id": "00t0067",
+                "label": "Automation, nurture & retention",
+                "token": "__RO_TEXT_103__",
+                "copy": "\n                    Automation, nurture & retention\n                "
+              },
+              {
+                "_id": "00t0068",
+                "label": "\u2192",
+                "token": "__RO_TEXT_104__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0069",
+                "label": "05",
+                "token": "__RO_TEXT_105__",
+                "copy": "05"
+              },
+              {
+                "_id": "00t006a",
+                "label": "SEM Marketing",
+                "token": "__RO_TEXT_106__",
+                "copy": "SEM Marketing"
+              },
+              {
+                "_id": "00t006b",
+                "label": "High-intent paid search campaigns",
+                "token": "__RO_TEXT_107__",
+                "copy": "\n                    High-intent paid search campaigns\n                "
+              },
+              {
+                "_id": "00t006c",
+                "label": "\u2192",
+                "token": "__RO_TEXT_108__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t006d",
+                "label": "06",
+                "token": "__RO_TEXT_109__",
+                "copy": "06"
+              },
+              {
+                "_id": "00t006e",
+                "label": "Social Media",
+                "token": "__RO_TEXT_110__",
+                "copy": "Social Media"
+              },
+              {
+                "_id": "00t006f",
+                "label": "Content, community & growth",
+                "token": "__RO_TEXT_111__",
+                "copy": "\n                    Content, community & growth\n                "
+              },
+              {
+                "_id": "00t0070",
+                "label": "\u2192",
+                "token": "__RO_TEXT_112__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0071",
+                "label": "07",
+                "token": "__RO_TEXT_113__",
+                "copy": "07"
+              },
+              {
+                "_id": "00t0072",
+                "label": "Business Reputation Management",
+                "token": "__RO_TEXT_114__",
+                "copy": "\n                    Business Reputation Management\n                "
+              },
+              {
+                "_id": "00t0073",
+                "label": "Trust, credibility & brand authority",
+                "token": "__RO_TEXT_115__",
+                "copy": "\n                    Trust, credibility & brand authority\n                "
+              },
+              {
+                "_id": "00t0074",
+                "label": "\u2192",
+                "token": "__RO_TEXT_116__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0075",
+                "label": "02",
+                "token": "__RO_TEXT_117__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t0076",
+                "label": ".",
+                "token": "__RO_TEXT_118__",
+                "copy": "."
+              },
+              {
+                "_id": "00t0077",
+                "label": "Design",
+                "token": "__RO_TEXT_119__",
+                "copy": "Design"
+              },
+              {
+                "_id": "00t0078",
+                "label": "01",
+                "token": "__RO_TEXT_120__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t0079",
+                "label": "Brand Identity",
+                "token": "__RO_TEXT_121__",
+                "copy": "Brand Identity"
+              },
+              {
+                "_id": "00t007a",
+                "label": "Distinct brands built to be remembered",
+                "token": "__RO_TEXT_122__",
+                "copy": "\n                    Distinct brands built to be remembered\n                "
+              },
+              {
+                "_id": "00t007b",
+                "label": "\u2192",
+                "token": "__RO_TEXT_123__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t007c",
+                "label": "02",
+                "token": "__RO_TEXT_124__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t007d",
+                "label": "UI/UX",
+                "token": "__RO_TEXT_125__",
+                "copy": "UI/UX"
+              },
+              {
+                "_id": "00t007e",
+                "label": "Intuitive digital experiences",
+                "token": "__RO_TEXT_126__",
+                "copy": "\n                    Intuitive digital experiences\n                "
+              },
+              {
+                "_id": "00t007f",
+                "label": "\u2192",
+                "token": "__RO_TEXT_127__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0080",
+                "label": "03",
+                "token": "__RO_TEXT_128__",
+                "copy": "03"
+              },
+              {
+                "_id": "00t0081",
+                "label": ".",
+                "token": "__RO_TEXT_129__",
+                "copy": "."
+              },
+              {
+                "_id": "00t0082",
+                "label": "Development",
+                "token": "__RO_TEXT_130__",
+                "copy": "Development"
+              },
+              {
+                "_id": "00t0083",
+                "label": "01",
+                "token": "__RO_TEXT_131__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t0084",
+                "label": "Web Development",
+                "token": "__RO_TEXT_132__",
+                "copy": "Web Development"
+              },
+              {
+                "_id": "00t0085",
+                "label": "High-performance digital platforms",
+                "token": "__RO_TEXT_133__",
+                "copy": "\n                    High-performance digital platforms\n                "
+              },
+              {
+                "_id": "00t0086",
+                "label": "\u2192",
+                "token": "__RO_TEXT_134__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0087",
+                "label": "02",
+                "token": "__RO_TEXT_135__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t0088",
+                "label": "App Development",
+                "token": "__RO_TEXT_136__",
+                "copy": "App Development"
+              },
+              {
+                "_id": "00t0089",
+                "label": "Mobile products built to scale",
+                "token": "__RO_TEXT_137__",
+                "copy": "\n                    Mobile products built to scale\n                "
+              },
+              {
+                "_id": "00t008a",
+                "label": "\u2192",
+                "token": "__RO_TEXT_138__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t008b",
+                "label": "Tailored solutions for complex needs",
+                "token": "__RO_TEXT_139__",
+                "copy": "\n                Tailored solutions for complex needs\n            "
+              },
+              {
+                "_id": "00t008c",
+                "label": "\u2192",
+                "token": "__RO_TEXT_140__",
+                "copy": "\n            \u2192\n        "
+              },
+              {
+                "_id": "00t008d",
+                "label": "04",
+                "token": "__RO_TEXT_141__",
+                "copy": "04"
+              },
+              {
+                "_id": "00t008e",
+                "label": ".",
+                "token": "__RO_TEXT_142__",
+                "copy": "."
+              },
+              {
+                "_id": "00t008f",
+                "label": "Media Production",
+                "token": "__RO_TEXT_143__",
+                "copy": "Media Production"
+              },
+              {
+                "_id": "00t0090",
+                "label": "01",
+                "token": "__RO_TEXT_144__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t0091",
+                "label": "Video Editing",
+                "token": "__RO_TEXT_145__",
+                "copy": "Video Editing"
+              },
+              {
+                "_id": "00t0092",
+                "label": "Stories brought to life through motion",
+                "token": "__RO_TEXT_146__",
+                "copy": "\n                    Stories brought to life through motion\n                "
+              },
+              {
+                "_id": "00t0093",
+                "label": "\u2192",
+                "token": "__RO_TEXT_147__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0094",
+                "label": "02",
+                "token": "__RO_TEXT_148__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t0095",
+                "label": "Animation",
+                "token": "__RO_TEXT_149__",
+                "copy": "Animation"
+              },
+              {
+                "_id": "00t0096",
+                "label": "Creative motion that gets attention",
+                "token": "__RO_TEXT_150__",
+                "copy": "\n                    Creative motion that gets attention\n                "
+              },
+              {
+                "_id": "00t0097",
+                "label": "\u2192",
+                "token": "__RO_TEXT_151__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t0098",
+                "label": "01",
+                "token": "__RO_TEXT_152__",
+                "copy": "\n                        01\n                    "
+              },
+              {
+                "_id": "00t0099",
+                "label": "PLATFORM",
+                "token": "__RO_TEXT_153__",
+                "copy": "\n                        PLATFORM\n                    "
+              },
+              {
+                "_id": "00t009a",
+                "label": "Rankorbit.ai",
+                "token": "__RO_TEXT_154__",
+                "copy": "\n                        Rankorbit.ai\n                    "
+              },
+              {
+                "_id": "00t009b",
+                "label": "Rankorbit.ai",
+                "token": "__RO_TEXT_155__",
+                "copy": "\n                                Rankorbit.ai\n                            "
+              },
+              {
+                "_id": "00t009c",
+                "label": "AI-powered growth and marketing platform",
+                "token": "__RO_TEXT_156__",
+                "copy": "\n                                AI-powered growth and marketing platform\n                            "
+              },
+              {
+                "_id": "00t009d",
+                "label": "\u2192",
+                "token": "__RO_TEXT_157__",
+                "copy": "\n                            \u2192\n                        "
+              },
+              {
+                "_id": "00t009e",
+                "label": "02",
+                "token": "__RO_TEXT_158__",
+                "copy": "\n                        02\n                    "
+              },
+              {
+                "_id": "00t009f",
+                "label": "PLATFORM",
+                "token": "__RO_TEXT_159__",
+                "copy": "\n                        PLATFORM\n                    "
+              },
+              {
+                "_id": "00t00a0",
+                "label": "NAP Orbit",
+                "token": "__RO_TEXT_160__",
+                "copy": "\n                        NAP Orbit\n                    "
+              },
+              {
+                "_id": "00t00a1",
+                "label": "NAP Orbit",
+                "token": "__RO_TEXT_161__",
+                "copy": "\n                                NAP Orbit\n                            "
+              },
+              {
+                "_id": "00t00a2",
+                "label": "We get your business onto every map",
+                "token": "__RO_TEXT_162__",
+                "copy": "\n                               We get your business onto every map\n                            "
+              },
+              {
+                "_id": "00t00a3",
+                "label": "\u2192",
+                "token": "__RO_TEXT_163__",
+                "copy": "\n                            \u2192\n                        "
+              },
+              {
+                "_id": "00t00a4",
+                "label": "About",
+                "token": "__RO_TEXT_164__",
+                "copy": "<a href=\"__RO_LINK_43__\" class=\"wpr-mobile-menu-item\">About</a>"
+              },
+              {
+                "_id": "00t00a5",
+                "label": "Contact Us",
+                "token": "__RO_TEXT_165__",
+                "copy": "<a href=\"__RO_LINK_44__\" class=\"wpr-mobile-menu-item\">Contact Us</a>"
+              },
+              {
+                "_id": "00t00a6",
+                "label": "Co Partners",
+                "token": "__RO_TEXT_166__",
+                "copy": "<a href=\"__RO_LINK_45__\" class=\"wpr-mobile-menu-item\">Co Partners</a>"
+              },
+              {
+                "_id": "00t00a7",
+                "label": "Blog",
+                "token": "__RO_TEXT_167__",
+                "copy": "<a href=\"__RO_LINK_46__\" class=\"wpr-mobile-menu-item\">Blog</a>"
+              },
+              {
+                "_id": "00t00a8",
+                "label": "Book a call",
+                "token": "__RO_TEXT_168__",
+                "copy": "Book a call"
+              },
+              {
+                "_id": "00t00a9",
+                "label": "R",
+                "token": "__RO_TEXT_169__",
+                "copy": "R"
+              },
+              {
+                "_id": "00t00aa",
+                "label": "ANK ORBIT",
+                "token": "__RO_TEXT_170__",
+                "copy": "ANK ORBIT"
+              },
+              {
+                "_id": "00t00ab",
+                "label": "01",
+                "token": "__RO_TEXT_171__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t00ac",
+                "label": "Home",
+                "token": "__RO_TEXT_172__",
+                "copy": "Home"
+              },
+              {
+                "_id": "00t00ad",
+                "label": "Back to the beginning",
+                "token": "__RO_TEXT_173__",
+                "copy": "Back to the beginning"
+              },
+              {
+                "_id": "00t00ae",
+                "label": "\u2197",
+                "token": "__RO_TEXT_174__",
+                "copy": "\u2197"
+              },
+              {
+                "_id": "00t00af",
+                "label": "02",
+                "token": "__RO_TEXT_175__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t00b0",
+                "label": "Services",
+                "token": "__RO_TEXT_176__",
+                "copy": "Services"
+              },
+              {
+                "_id": "00t00b1",
+                "label": "Explore what we create",
+                "token": "__RO_TEXT_177__",
+                "copy": "Explore what we create"
+              },
+              {
+                "_id": "00t00b2",
+                "label": "01",
+                "token": "__RO_TEXT_178__",
+                "copy": "01"
+              },
+              {
+                "_id": "00t00b3",
+                "label": "Digital Marketing",
+                "token": "__RO_TEXT_179__",
+                "copy": "Digital Marketing"
+              },
+              {
+                "_id": "00t00b4",
+                "label": "AI Optimization",
+                "token": "__RO_TEXT_180__",
+                "copy": "AI Optimization"
+              },
+              {
+                "_id": "00t00b5",
+                "label": "SEO",
+                "token": "__RO_TEXT_181__",
+                "copy": "SEO"
+              },
+              {
+                "_id": "00t00b6",
+                "label": "Performance Marketing",
+                "token": "__RO_TEXT_182__",
+                "copy": "\n                                Performance Marketing\n                            "
+              },
+              {
+                "_id": "00t00b7",
+                "label": "Email Marketing",
+                "token": "__RO_TEXT_183__",
+                "copy": "\n                                Email Marketing\n                            "
+              },
+              {
+                "_id": "00t00b8",
+                "label": "SEM Marketing",
+                "token": "__RO_TEXT_184__",
+                "copy": "\n                                SEM Marketing\n                            "
+              },
+              {
+                "_id": "00t00b9",
+                "label": "Social Media",
+                "token": "__RO_TEXT_185__",
+                "copy": "\n                                Social Media\n                            "
+              },
+              {
+                "_id": "00t00ba",
+                "label": "Business Reputation Management",
+                "token": "__RO_TEXT_186__",
+                "copy": "\n                                Business Reputation Management\n                            "
+              },
+              {
+                "_id": "00t00bb",
+                "label": "02",
+                "token": "__RO_TEXT_187__",
+                "copy": "02"
+              },
+              {
+                "_id": "00t00bc",
+                "label": "Design",
+                "token": "__RO_TEXT_188__",
+                "copy": "Design"
+              },
+              {
+                "_id": "00t00bd",
+                "label": "Brand Identity",
+                "token": "__RO_TEXT_189__",
+                "copy": "\n                                Brand Identity\n                            "
+              },
+              {
+                "_id": "00t00be",
+                "label": "UI/UX Design",
+                "token": "__RO_TEXT_190__",
+                "copy": "\n                                UI/UX Design\n                            "
+              },
+              {
+                "_id": "00t00bf",
+                "label": "03",
+                "token": "__RO_TEXT_191__",
+                "copy": "03"
+              },
+              {
+                "_id": "00t00c0",
+                "label": "Development",
+                "token": "__RO_TEXT_192__",
+                "copy": "Development"
+              },
+              {
+                "_id": "00t00c1",
+                "label": "Web Development",
+                "token": "__RO_TEXT_193__",
+                "copy": "\n                                Web Development\n                            "
+              },
+              {
+                "_id": "00t00c2",
+                "label": "App Development",
+                "token": "__RO_TEXT_194__",
+                "copy": "\n                                App Development\n                            "
+              },
+              {
+                "_id": "00t00c3",
+                "label": "Custom Development",
+                "token": "__RO_TEXT_195__",
+                "copy": "\n    Custom Development\n"
+              },
+              {
+                "_id": "00t00c4",
+                "label": "04",
+                "token": "__RO_TEXT_196__",
+                "copy": "04"
+              },
+              {
+                "_id": "00t00c5",
+                "label": "Media Production",
+                "token": "__RO_TEXT_197__",
+                "copy": "Media Production"
+              },
+              {
+                "_id": "00t00c6",
+                "label": "Video Editing",
+                "token": "__RO_TEXT_198__",
+                "copy": "\n                                Video Editing\n                            "
+              },
+              {
+                "_id": "00t00c7",
+                "label": "Animation",
+                "token": "__RO_TEXT_199__",
+                "copy": "\n                                Animation\n                            "
+              },
+              {
+                "_id": "00t00c8",
+                "label": "03",
+                "token": "__RO_TEXT_200__",
+                "copy": "03"
+              },
+              {
+                "_id": "00t00c9",
+                "label": "About",
+                "token": "__RO_TEXT_201__",
+                "copy": "About"
+              },
+              {
+                "_id": "00t00ca",
+                "label": "Discover Rank Orbit",
+                "token": "__RO_TEXT_202__",
+                "copy": "Discover Rank Orbit"
+              },
+              {
+                "_id": "00t00cb",
+                "label": "\u2197",
+                "token": "__RO_TEXT_203__",
+                "copy": "\u2197"
+              },
+              {
+                "_id": "00t00cc",
+                "label": "04",
+                "token": "__RO_TEXT_204__",
+                "copy": "04"
+              },
+              {
+                "_id": "00t00cd",
+                "label": "Contact Us",
+                "token": "__RO_TEXT_205__",
+                "copy": "Contact Us"
+              },
+              {
+                "_id": "00t00ce",
+                "label": "Let's start something great",
+                "token": "__RO_TEXT_206__",
+                "copy": "Let's start something great"
+              },
+              {
+                "_id": "00t00cf",
+                "label": "\u2197",
+                "token": "__RO_TEXT_207__",
+                "copy": "\u2197"
+              },
+              {
+                "_id": "00t00d0",
+                "label": "05",
+                "token": "__RO_TEXT_208__",
+                "copy": "05"
+              },
+              {
+                "_id": "00t00d1",
+                "label": "Blog",
+                "token": "__RO_TEXT_209__",
+                "copy": "Blog"
+              },
+              {
+                "_id": "00t00d2",
+                "label": "Ideas, insights & updates",
+                "token": "__RO_TEXT_210__",
+                "copy": "Ideas, insights & updates"
+              },
+              {
+                "_id": "00t00d3",
+                "label": "\u2197",
+                "token": "__RO_TEXT_211__",
+                "copy": "\u2197"
+              },
+              {
+                "_id": "00t00d4",
+                "label": "Book A Call",
+                "token": "__RO_TEXT_212__",
+                "copy": "Book A Call"
+              },
+              {
+                "_id": "00t00d5",
+                "label": "\u2192",
+                "token": "__RO_TEXT_213__",
+                "copy": "\u2192"
+              },
+              {
+                "_id": "00t00d6",
+                "label": "Rank Orbit",
+                "token": "__RO_TEXT_214__",
+                "copy": "Rank Orbit"
+              },
+              {
+                "_id": "00t00d7",
+                "label": "\u00a9 2026",
+                "token": "__RO_TEXT_215__",
+                "copy": "\u00a9 2026"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "00m0000",
+                "label": "\ud83c\udf89",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0004-1f389.svg"
+                }
+              },
+              {
+                "_id": "00m0001",
+                "label": "\ud83c\udf89",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0004-1f389.svg"
+                }
+              },
+              {
+                "_id": "00m0002",
+                "label": "attachment-full size-full wp-image-30",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0005-logo-e1785353786990.png"
+                }
+              },
+              {
+                "_id": "00m0003",
+                "label": "Rank Orbit Dev",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0006-imgi_1_main_logo-scaled.png"
+                }
+              },
+              {
+                "_id": "00m0004",
+                "label": "Rankorbit.ai",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0007-logo-cropped.webp"
+                }
+              },
+              {
+                "_id": "00m0005",
+                "label": "NAP Orbit",
+                "token": "__RO_MEDIA_5__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0008-nap-orbit-logo-nav.png"
+                }
+              },
+              {
+                "_id": "00m0006",
+                "label": "Rank Orbit Dev",
+                "token": "__RO_MEDIA_6__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0006-imgi_1_main_logo-scaled.png"
+                }
+              },
+              {
+                "_id": "00m0007",
+                "label": "Rankorbit.ai",
+                "token": "__RO_MEDIA_7__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0007-logo-cropped.webp"
+                }
+              },
+              {
+                "_id": "00m0008",
+                "label": "NAP Orbit",
+                "token": "__RO_MEDIA_8__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0008-nap-orbit-logo-nav.png"
+                }
+              },
+              {
+                "_id": "00m0009",
+                "label": "attachment-full size-full wp-image-30",
+                "token": "__RO_MEDIA_9__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0005-logo-e1785353786990.png"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "00l0000",
+                "label": "Link",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "00l0001",
+                "label": "Home",
+                "token": "__RO_LINK_1__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "00l0002",
+                "label": "Services",
+                "token": "__RO_LINK_2__",
+                "target": {
+                  "url": "https://rankorbit.com/services/"
+                }
+              },
+              {
+                "_id": "00l0003",
+                "label": "01 AI Optimization We enhance your business visibility \u2192",
+                "token": "__RO_LINK_3__",
+                "target": {
+                  "url": "https://rankorbit.com/ai-optimization/"
+                }
+              },
+              {
+                "_id": "00l0004",
+                "label": "02 SEO Search visibility & organic growth \u2192",
+                "token": "__RO_LINK_4__",
+                "target": {
+                  "url": "https://rankorbit.com/seo/"
+                }
+              },
+              {
+                "_id": "00l0005",
+                "label": "03 Performance Marketing Data-led campaigns that convert \u2192",
+                "token": "__RO_LINK_5__",
+                "target": {
+                  "url": "https://rankorbit.com/performance-marketing/"
+                }
+              },
+              {
+                "_id": "00l0006",
+                "label": "04 Email Marketing Automation, nurture & retention \u2192",
+                "token": "__RO_LINK_6__",
+                "target": {
+                  "url": "https://rankorbit.com/email-marketing/"
+                }
+              },
+              {
+                "_id": "00l0007",
+                "label": "05 SEM Marketing High-intent paid search campaigns \u2192",
+                "token": "__RO_LINK_7__",
+                "target": {
+                  "url": "https://rankorbit.com/sem-marketing/"
+                }
+              },
+              {
+                "_id": "00l0008",
+                "label": "06 Social Media Content, community & growth \u2192",
+                "token": "__RO_LINK_8__",
+                "target": {
+                  "url": "https://rankorbit.com/social-media/"
+                }
+              },
+              {
+                "_id": "00l0009",
+                "label": "07 Business Reputation Management Trust, credibility & brand authority",
+                "token": "__RO_LINK_9__",
+                "target": {
+                  "url": "https://rankorbit.com/business-reputation-management/"
+                }
+              },
+              {
+                "_id": "00l000a",
+                "label": "01 Brand Identity Distinct brands built to be remembered \u2192",
+                "token": "__RO_LINK_10__",
+                "target": {
+                  "url": "https://rankorbit.com/brand-identity/"
+                }
+              },
+              {
+                "_id": "00l000b",
+                "label": "02 UI/UX Intuitive digital experiences \u2192",
+                "token": "__RO_LINK_11__",
+                "target": {
+                  "url": "https://rankorbit.com/ui-ux/"
+                }
+              },
+              {
+                "_id": "00l000c",
+                "label": "01 Web Development High-performance digital platforms \u2192",
+                "token": "__RO_LINK_12__",
+                "target": {
+                  "url": "https://rankorbit.com/web-development/"
+                }
+              },
+              {
+                "_id": "00l000d",
+                "label": "02 App Development Mobile products built to scale \u2192",
+                "token": "__RO_LINK_13__",
+                "target": {
+                  "url": "https://rankorbit.com/app-development/"
+                }
+              },
+              {
+                "_id": "00l000e",
+                "label": "Custom Development Tailored solutions for complex needs \u2192",
+                "token": "__RO_LINK_14__",
+                "target": {
+                  "url": "https://rankorbit.dev/"
+                }
+              },
+              {
+                "_id": "00l000f",
+                "label": "01 Video Editing Stories brought to life through motion \u2192",
+                "token": "__RO_LINK_15__",
+                "target": {
+                  "url": "https://rankorbit.com/video-editing/"
+                }
+              },
+              {
+                "_id": "00l0010",
+                "label": "02 Animation Creative motion that gets attention \u2192",
+                "token": "__RO_LINK_16__",
+                "target": {
+                  "url": "https://rankorbit.com/animation/"
+                }
+              },
+              {
+                "_id": "00l0011",
+                "label": "Our Products",
+                "token": "__RO_LINK_17__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "00l0012",
+                "label": "Rankorbit.ai AI-powered growth and marketing platform \u2192",
+                "token": "__RO_LINK_18__",
+                "target": {
+                  "url": "https://rankorbit.ai/"
+                }
+              },
+              {
+                "_id": "00l0013",
+                "label": "NAP Orbit We get your business onto every map \u2192",
+                "token": "__RO_LINK_19__",
+                "target": {
+                  "url": "https://naporbit.com/"
+                }
+              },
+              {
+                "_id": "00l0014",
+                "label": "About",
+                "token": "__RO_LINK_20__",
+                "target": {
+                  "url": "https://rankorbit.com/about/"
+                }
+              },
+              {
+                "_id": "00l0015",
+                "label": "Contact Us",
+                "token": "__RO_LINK_21__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "00l0016",
+                "label": "Co Partners",
+                "token": "__RO_LINK_22__",
+                "target": {
+                  "url": "https://rankorbit.com/our-co-partners/"
+                }
+              },
+              {
+                "_id": "00l0017",
+                "label": "Blog",
+                "token": "__RO_LINK_23__",
+                "target": {
+                  "url": "https://rankorbit.com/blog/"
+                }
+              },
+              {
+                "_id": "00l0018",
+                "label": "Home",
+                "token": "__RO_LINK_24__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "00l0019",
+                "label": "Services",
+                "token": "__RO_LINK_25__",
+                "target": {
+                  "url": "https://rankorbit.com/services/"
+                }
+              },
+              {
+                "_id": "00l001a",
+                "label": "01 AI Optimization We enhance your business visibility \u2192",
+                "token": "__RO_LINK_26__",
+                "target": {
+                  "url": "https://rankorbit.com/ai-optimization/"
+                }
+              },
+              {
+                "_id": "00l001b",
+                "label": "02 SEO Search visibility & organic growth \u2192",
+                "token": "__RO_LINK_27__",
+                "target": {
+                  "url": "https://rankorbit.com/seo/"
+                }
+              },
+              {
+                "_id": "00l001c",
+                "label": "03 Performance Marketing Data-led campaigns that convert \u2192",
+                "token": "__RO_LINK_28__",
+                "target": {
+                  "url": "https://rankorbit.com/performance-marketing/"
+                }
+              },
+              {
+                "_id": "00l001d",
+                "label": "04 Email Marketing Automation, nurture & retention \u2192",
+                "token": "__RO_LINK_29__",
+                "target": {
+                  "url": "https://rankorbit.com/email-marketing/"
+                }
+              },
+              {
+                "_id": "00l001e",
+                "label": "05 SEM Marketing High-intent paid search campaigns \u2192",
+                "token": "__RO_LINK_30__",
+                "target": {
+                  "url": "https://rankorbit.com/sem-marketing/"
+                }
+              },
+              {
+                "_id": "00l001f",
+                "label": "06 Social Media Content, community & growth \u2192",
+                "token": "__RO_LINK_31__",
+                "target": {
+                  "url": "https://rankorbit.com/social-media/"
+                }
+              },
+              {
+                "_id": "00l0020",
+                "label": "07 Business Reputation Management Trust, credibility & brand authority",
+                "token": "__RO_LINK_32__",
+                "target": {
+                  "url": "https://rankorbit.com/business-reputation-management/"
+                }
+              },
+              {
+                "_id": "00l0021",
+                "label": "01 Brand Identity Distinct brands built to be remembered \u2192",
+                "token": "__RO_LINK_33__",
+                "target": {
+                  "url": "https://rankorbit.com/brand-identity/"
+                }
+              },
+              {
+                "_id": "00l0022",
+                "label": "02 UI/UX Intuitive digital experiences \u2192",
+                "token": "__RO_LINK_34__",
+                "target": {
+                  "url": "https://rankorbit.com/ui-ux/"
+                }
+              },
+              {
+                "_id": "00l0023",
+                "label": "01 Web Development High-performance digital platforms \u2192",
+                "token": "__RO_LINK_35__",
+                "target": {
+                  "url": "https://rankorbit.com/web-development/"
+                }
+              },
+              {
+                "_id": "00l0024",
+                "label": "02 App Development Mobile products built to scale \u2192",
+                "token": "__RO_LINK_36__",
+                "target": {
+                  "url": "https://rankorbit.com/app-development/"
+                }
+              },
+              {
+                "_id": "00l0025",
+                "label": "Custom Development Tailored solutions for complex needs \u2192",
+                "token": "__RO_LINK_37__",
+                "target": {
+                  "url": "https://rankorbit.dev/"
+                }
+              },
+              {
+                "_id": "00l0026",
+                "label": "01 Video Editing Stories brought to life through motion \u2192",
+                "token": "__RO_LINK_38__",
+                "target": {
+                  "url": "https://rankorbit.com/video-editing/"
+                }
+              },
+              {
+                "_id": "00l0027",
+                "label": "02 Animation Creative motion that gets attention \u2192",
+                "token": "__RO_LINK_39__",
+                "target": {
+                  "url": "https://rankorbit.com/animation/"
+                }
+              },
+              {
+                "_id": "00l0028",
+                "label": "Our Products",
+                "token": "__RO_LINK_40__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "00l0029",
+                "label": "Rankorbit.ai AI-powered growth and marketing platform \u2192",
+                "token": "__RO_LINK_41__",
+                "target": {
+                  "url": "https://rankorbit.ai/"
+                }
+              },
+              {
+                "_id": "00l002a",
+                "label": "NAP Orbit We get your business onto every map \u2192",
+                "token": "__RO_LINK_42__",
+                "target": {
+                  "url": "https://naporbit.com/"
+                }
+              },
+              {
+                "_id": "00l002b",
+                "label": "About",
+                "token": "__RO_LINK_43__",
+                "target": {
+                  "url": "https://rankorbit.com/about/"
+                }
+              },
+              {
+                "_id": "00l002c",
+                "label": "Contact Us",
+                "token": "__RO_LINK_44__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "00l002d",
+                "label": "Co Partners",
+                "token": "__RO_LINK_45__",
+                "target": {
+                  "url": "https://rankorbit.com/our-co-partners/"
+                }
+              },
+              {
+                "_id": "00l002e",
+                "label": "Blog",
+                "token": "__RO_LINK_46__",
+                "target": {
+                  "url": "https://rankorbit.com/blog/"
+                }
+              },
+              {
+                "_id": "00l002f",
+                "label": "Book a call",
+                "token": "__RO_LINK_47__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "00l0030",
+                "label": "Link",
+                "token": "__RO_LINK_48__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "00l0031",
+                "label": "R ANK ORBIT",
+                "token": "__RO_LINK_49__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "00l0032",
+                "label": "01 Home Back to the beginning \u2197",
+                "token": "__RO_LINK_50__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "00l0033",
+                "label": "AI Optimization",
+                "token": "__RO_LINK_51__",
+                "target": {
+                  "url": "https://rankorbit.com/ai-optimization/"
+                }
+              },
+              {
+                "_id": "00l0034",
+                "label": "SEO",
+                "token": "__RO_LINK_52__",
+                "target": {
+                  "url": "https://rankorbit.com/seo/"
+                }
+              },
+              {
+                "_id": "00l0035",
+                "label": "Performance Marketing",
+                "token": "__RO_LINK_53__",
+                "target": {
+                  "url": "https://rankorbit.com/performance-marketing/"
+                }
+              },
+              {
+                "_id": "00l0036",
+                "label": "Email Marketing",
+                "token": "__RO_LINK_54__",
+                "target": {
+                  "url": "https://rankorbit.com/email-marketing/"
+                }
+              },
+              {
+                "_id": "00l0037",
+                "label": "SEM Marketing",
+                "token": "__RO_LINK_55__",
+                "target": {
+                  "url": "https://rankorbit.com/sem-marketing/"
+                }
+              },
+              {
+                "_id": "00l0038",
+                "label": "Social Media",
+                "token": "__RO_LINK_56__",
+                "target": {
+                  "url": "https://rankorbit.com/social-media-marketing/"
+                }
+              },
+              {
+                "_id": "00l0039",
+                "label": "Business Reputation Management",
+                "token": "__RO_LINK_57__",
+                "target": {
+                  "url": "https://rankorbit.com/business-reputation-management/"
+                }
+              },
+              {
+                "_id": "00l003a",
+                "label": "Brand Identity",
+                "token": "__RO_LINK_58__",
+                "target": {
+                  "url": "https://rankorbit.com/brand-identity/"
+                }
+              },
+              {
+                "_id": "00l003b",
+                "label": "UI/UX Design",
+                "token": "__RO_LINK_59__",
+                "target": {
+                  "url": "https://rankorbit.com/ui-ux-design/"
+                }
+              },
+              {
+                "_id": "00l003c",
+                "label": "Web Development",
+                "token": "__RO_LINK_60__",
+                "target": {
+                  "url": "https://rankorbit.com/web-development/"
+                }
+              },
+              {
+                "_id": "00l003d",
+                "label": "App Development",
+                "token": "__RO_LINK_61__",
+                "target": {
+                  "url": "https://rankorbit.com/app-development/"
+                }
+              },
+              {
+                "_id": "00l003e",
+                "label": "Custom Development",
+                "token": "__RO_LINK_62__",
+                "target": {
+                  "url": "https://rankorbit.dev/"
+                }
+              },
+              {
+                "_id": "00l003f",
+                "label": "Video Editing",
+                "token": "__RO_LINK_63__",
+                "target": {
+                  "url": "https://rankorbit.com/video-editing/"
+                }
+              },
+              {
+                "_id": "00l0040",
+                "label": "Animation",
+                "token": "__RO_LINK_64__",
+                "target": {
+                  "url": "https://rankorbit.com/animation/"
+                }
+              },
+              {
+                "_id": "00l0041",
+                "label": "03 About Discover Rank Orbit \u2197",
+                "token": "__RO_LINK_65__",
+                "target": {
+                  "url": "https://rankorbit.com/about/"
+                }
+              },
+              {
+                "_id": "00l0042",
+                "label": "04 Contact Us Let's start something great \u2197",
+                "token": "__RO_LINK_66__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "00l0043",
+                "label": "05 Blog Ideas, insights & updates \u2197",
+                "token": "__RO_LINK_67__",
+                "target": {
+                  "url": "https://rankorbit.com/blog/"
+                }
+              },
+              {
+                "_id": "00l0044",
+                "label": "Book A Call \u2192",
+                "token": "__RO_LINK_68__",
+                "target": {
+                  "url": "#contact"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000001",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Hero",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000001",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-01",
+            "text_items": [
+              {
+                "_id": "01t0000",
+                "label": "Launch Your Brand Into Next Orbit.",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n        Launch Your <span class=\"ro8-gradient\">Brand</span>\n        <span class=\"ro8-line\">\n          Into Next Orbit<span class=\"ro8-period\">.</span>\n        </span>\n      "
+              },
+              {
+                "_id": "01t0001",
+                "label": "Rank Orbit is where strategy meets execution. We unite development, br",
+                "token": "__RO_TEXT_1__",
+                "copy": "\n        Rank Orbit is where strategy meets execution.\n        We unite development, branding, marketing,\n        and automation into a single system,\n        engineered to solve real business challenges\n        and deliver outcomes that matter.\n      "
+              },
+              {
+                "_id": "01t0002",
+                "label": "Get Your Growth Plan",
+                "token": "__RO_TEXT_2__",
+                "copy": "Get Your Growth Plan"
+              },
+              {
+                "_id": "01t0003",
+                "label": "Let's Talk",
+                "token": "__RO_TEXT_3__",
+                "copy": "Let's Talk"
+              },
+              {
+                "_id": "01t0004",
+                "label": "\u2605\u2605\u2605\u2605\u2605",
+                "token": "__RO_TEXT_4__",
+                "copy": "\u2605\u2605\u2605\u2605\u2605"
+              },
+              {
+                "_id": "01t0005",
+                "label": "Trusted by 2500+ Businesses Globally",
+                "token": "__RO_TEXT_5__",
+                "copy": "Trusted by 2500+ Businesses Globally"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "01m0000",
+                "label": "ro8-poster",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0009-Screenshot-2026-10-10-024149.webp"
+                }
+              },
+              {
+                "_id": "01m0001",
+                "label": "ro8-video",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0010-Hero-Section-Video-Rank-Orbit.mp4"
+                }
+              },
+              {
+                "_id": "01m0002",
+                "label": "lazy entered loaded",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0011-80"
+                }
+              },
+              {
+                "_id": "01m0003",
+                "label": "lazy entered loaded",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0012-80"
+                }
+              },
+              {
+                "_id": "01m0004",
+                "label": "lazy entered loaded",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0013-80"
+                }
+              },
+              {
+                "_id": "01m0005",
+                "label": "lazy entered loaded",
+                "token": "__RO_MEDIA_5__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0014-80"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "01l0000",
+                "label": "Get Your Growth Plan",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "01l0001",
+                "label": "Let's Talk",
+                "token": "__RO_LINK_1__",
+                "target": {
+                  "url": "#contact"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000002",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "What we do \u2014 scroll-driven orbit",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000002",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-02",
+            "text_items": [
+              {
+                "_id": "02t0000",
+                "label": "What We Do",
+                "token": "__RO_TEXT_0__",
+                "copy": "What We Do"
+              },
+              {
+                "_id": "02t0001",
+                "label": "Everything Your BrandNeeds, InOne Orbit",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"ali-heading-line\">Everything Your Brand</span><span class=\"ali-heading-line\">Needs, In</span><span class=\"ali-heading-line\"><span class=\"ali-heading-gradient\">One Orbit</span></span>"
+              },
+              {
+                "_id": "02t0002",
+                "label": "We build websites, grow brands, and automate systems to help businesse",
+                "token": "__RO_TEXT_2__",
+                "copy": "We build websites, grow brands, and automate \u00a0systems to help businesses scale smarter."
+              },
+              {
+                "_id": "02t0003",
+                "label": "View All Services",
+                "token": "__RO_TEXT_3__",
+                "copy": "View All Services"
+              },
+              {
+                "_id": "02t0004",
+                "label": "\u2197",
+                "token": "__RO_TEXT_4__",
+                "copy": "\u2197"
+              },
+              {
+                "_id": "02t0005",
+                "label": "01",
+                "token": "__RO_TEXT_5__",
+                "copy": "\n\n                                    01\n                                "
+              },
+              {
+                "_id": "02t0006",
+                "label": "Digital Products",
+                "token": "__RO_TEXT_6__",
+                "copy": "\n\n                                        Digital Products\n                                    "
+              },
+              {
+                "_id": "02t0007",
+                "label": "Build",
+                "token": "__RO_TEXT_7__",
+                "copy": "\n\n                                        Build\n                                    "
+              },
+              {
+                "_id": "02t0008",
+                "label": "Create fast, reliable digital experiences that make every interaction ",
+                "token": "__RO_TEXT_8__",
+                "copy": "\n\n                                        Create fast, reliable digital experiences that make every interaction effortless.\n                                    "
+              },
+              {
+                "_id": "02t0009",
+                "label": "Website Development",
+                "token": "__RO_TEXT_9__",
+                "copy": "\n\n                                                Website Development\n                                            "
+              },
+              {
+                "_id": "02t000a",
+                "label": "Platform Architecture",
+                "token": "__RO_TEXT_10__",
+                "copy": "\n\n                                                Platform Architecture\n                                            "
+              },
+              {
+                "_id": "02t000b",
+                "label": "Technical performance",
+                "token": "__RO_TEXT_11__",
+                "copy": "\n\n                                                Technical performance\n                                            "
+              },
+              {
+                "_id": "02t000c",
+                "label": "Scalable Systems",
+                "token": "__RO_TEXT_12__",
+                "copy": "\n\n                                                Scalable Systems\n                                            "
+              },
+              {
+                "_id": "02t000d",
+                "label": "02",
+                "token": "__RO_TEXT_13__",
+                "copy": "\n\n                                    02\n                                "
+              },
+              {
+                "_id": "02t000e",
+                "label": "Digital Growth",
+                "token": "__RO_TEXT_14__",
+                "copy": "\n\n                                        Digital Growth\n                                    "
+              },
+              {
+                "_id": "02t000f",
+                "label": "Grow",
+                "token": "__RO_TEXT_15__",
+                "copy": "\n\n                                        Grow\n                                    "
+              },
+              {
+                "_id": "02t0010",
+                "label": "Turn customer demand into revenue through smarter digital growth strat",
+                "token": "__RO_TEXT_16__",
+                "copy": "\n\n                                        Turn customer demand into revenue through smarter digital growth strategies.\n                                    "
+              },
+              {
+                "_id": "02t0011",
+                "label": "Search Strategy",
+                "token": "__RO_TEXT_17__",
+                "copy": "\n\n                                                Search Strategy\n                                            "
+              },
+              {
+                "_id": "02t0012",
+                "label": "Paid Acquisition",
+                "token": "__RO_TEXT_18__",
+                "copy": "\n\n                                                Paid Acquisition\n                                            "
+              },
+              {
+                "_id": "02t0013",
+                "label": "Funnel Optimization",
+                "token": "__RO_TEXT_19__",
+                "copy": "\n\n                                                Funnel Optimization\n                                            "
+              },
+              {
+                "_id": "02t0014",
+                "label": "Revenue Tracking",
+                "token": "__RO_TEXT_20__",
+                "copy": "\n\n                                                Revenue Tracking\n                                            "
+              },
+              {
+                "_id": "02t0015",
+                "label": "03",
+                "token": "__RO_TEXT_21__",
+                "copy": "\n\n                                    03\n                                "
+              },
+              {
+                "_id": "02t0016",
+                "label": "Brand Experience",
+                "token": "__RO_TEXT_22__",
+                "copy": "\n\n                                        Brand Experience\n                                    "
+              },
+              {
+                "_id": "02t0017",
+                "label": "Brand",
+                "token": "__RO_TEXT_23__",
+                "copy": "\n\n                                        Brand\n                                    "
+              },
+              {
+                "_id": "02t0018",
+                "label": "Shape a memorable identity that earns trust and influences decisions.",
+                "token": "__RO_TEXT_24__",
+                "copy": "\n\n                                        Shape a memorable identity that earns trust and influences decisions.\n                                    "
+              },
+              {
+                "_id": "02t0019",
+                "label": "Brand Strategy",
+                "token": "__RO_TEXT_25__",
+                "copy": "\n\n                                                Brand Strategy\n                                            "
+              },
+              {
+                "_id": "02t001a",
+                "label": "Visual Identity",
+                "token": "__RO_TEXT_26__",
+                "copy": "\n\n                                                Visual Identity\n                                            "
+              },
+              {
+                "_id": "02t001b",
+                "label": "Messaging Framework",
+                "token": "__RO_TEXT_27__",
+                "copy": "\n\n                                                Messaging Framework\n                                            "
+              },
+              {
+                "_id": "02t001c",
+                "label": "Content Systems",
+                "token": "__RO_TEXT_28__",
+                "copy": "\n\n                                                Content Systems\n                                            "
+              },
+              {
+                "_id": "02t001d",
+                "label": "04",
+                "token": "__RO_TEXT_29__",
+                "copy": "\n\n                                    04\n                                "
+              },
+              {
+                "_id": "02t001e",
+                "label": "Intelligent Systems",
+                "token": "__RO_TEXT_30__",
+                "copy": "\n\n                                        Intelligent Systems\n                                    "
+              },
+              {
+                "_id": "02t001f",
+                "label": "Automate",
+                "token": "__RO_TEXT_31__",
+                "copy": "\n\n                                        Automate\n                                    "
+              },
+              {
+                "_id": "02t0020",
+                "label": "Connect AI and automation to simplify operations and improve performan",
+                "token": "__RO_TEXT_32__",
+                "copy": "\n\n                                        Connect AI and automation to simplify operations and improve performance.\n                                    "
+              },
+              {
+                "_id": "02t0021",
+                "label": "AI Workflows",
+                "token": "__RO_TEXT_33__",
+                "copy": "\n\n                                                AI Workflows\n                                            "
+              },
+              {
+                "_id": "02t0022",
+                "label": "Process Automation",
+                "token": "__RO_TEXT_34__",
+                "copy": "\n\n                                                Process Automation\n                                            "
+              },
+              {
+                "_id": "02t0023",
+                "label": "Data Integration",
+                "token": "__RO_TEXT_35__",
+                "copy": "\n\n                                                Data Integration\n                                            "
+              },
+              {
+                "_id": "02t0024",
+                "label": "Smart Operations",
+                "token": "__RO_TEXT_36__",
+                "copy": "\n\n                                                Smart Operations\n                                            "
+              },
+              {
+                "_id": "02t0025",
+                "label": "Scroll to explore",
+                "token": "__RO_TEXT_37__",
+                "copy": "\n\n                        Scroll to explore\n\n                    "
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "02m0000",
+                "label": "Rank Orbit",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0015-middle-image.png"
+                }
+              },
+              {
+                "_id": "02m0001",
+                "label": "Build",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0016-build-image.png"
+                }
+              },
+              {
+                "_id": "02m0002",
+                "label": "Grow",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0017-grow-image.png"
+                }
+              },
+              {
+                "_id": "02m0003",
+                "label": "Brand",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0018-brand-image.png"
+                }
+              },
+              {
+                "_id": "02m0004",
+                "label": "Automate",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0019-automate-image.png"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "02l0000",
+                "label": "View All Services\u2197",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "https://rankorbit.com/services/"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000003",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Technology logo carousel",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000003",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-03",
+            "text_items": [],
+            "media_items": [
+              {
+                "_id": "03m0000",
+                "label": "NVIDIA logo",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0027-12.png"
+                }
+              },
+              {
+                "_id": "03m0001",
+                "label": "Squarespace logo",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0028-10.png"
+                }
+              },
+              {
+                "_id": "03m0002",
+                "label": "Salesforce logo",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0029-14.png"
+                }
+              },
+              {
+                "_id": "03m0003",
+                "label": "Google Ads advertising platform logo",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0030-8.png"
+                }
+              },
+              {
+                "_id": "03m0004",
+                "label": "WordPress logo",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0031-13.png"
+                }
+              },
+              {
+                "_id": "03m0005",
+                "label": "WooCommerce e-commerce platform logo",
+                "token": "__RO_MEDIA_5__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0032-5.png"
+                }
+              },
+              {
+                "_id": "03m0006",
+                "label": "Google Search Console logo",
+                "token": "__RO_MEDIA_6__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0033-15.png"
+                }
+              },
+              {
+                "_id": "03m0007",
+                "label": "Webflow logo",
+                "token": "__RO_MEDIA_7__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0034-11.png"
+                }
+              },
+              {
+                "_id": "03m0008",
+                "label": "Ahrefs logo",
+                "token": "__RO_MEDIA_8__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0035-16.png"
+                }
+              },
+              {
+                "_id": "03m0009",
+                "label": "WordPress logo",
+                "token": "__RO_MEDIA_9__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0036-wordpress-logo-wordpress-icon-transparent-free-png-1.png"
+                }
+              },
+              {
+                "_id": "03m000a",
+                "label": "Semrush logo",
+                "token": "__RO_MEDIA_10__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0020-17.png"
+                }
+              },
+              {
+                "_id": "03m000b",
+                "label": "GoDaddy logo",
+                "token": "__RO_MEDIA_11__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0021-9.png"
+                }
+              },
+              {
+                "_id": "03m000c",
+                "label": "Meta company logo",
+                "token": "__RO_MEDIA_12__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0022-7.png"
+                }
+              },
+              {
+                "_id": "03m000d",
+                "label": "Shopify e-commerce platform logo",
+                "token": "__RO_MEDIA_13__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0023-6.png"
+                }
+              },
+              {
+                "_id": "03m000e",
+                "label": "HighLevel marketing platform logo",
+                "token": "__RO_MEDIA_14__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0024-4-1.png"
+                }
+              },
+              {
+                "_id": "03m000f",
+                "label": "Microsoft brand logo",
+                "token": "__RO_MEDIA_15__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0025-3-9.png"
+                }
+              },
+              {
+                "_id": "03m0010",
+                "label": "TikTok social media platform logo",
+                "token": "__RO_MEDIA_16__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0026-2-10.png"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000004",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Why choose us",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000004",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-04",
+            "text_items": [
+              {
+                "_id": "04t0000",
+                "label": "Why choose us",
+                "token": "__RO_TEXT_0__",
+                "copy": "Why choose us"
+              },
+              {
+                "_id": "04t0001",
+                "label": "A Digital Partner Built For Outcomes",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"two_elementor_element\">A <span class=\"gradient-text\">Digital Partner</span></span><br class=\"two_elementor_element\"> Built For Outcomes"
+              },
+              {
+                "_id": "04t0002",
+                "label": "Start with clear goals so every investment drives meaningful business ",
+                "token": "__RO_TEXT_2__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Start with clear goals so every investment drives meaningful business growth.</span>"
+              },
+              {
+                "_id": "04t0003",
+                "label": "Clear insights show what works and guide smarter decisions for growth.",
+                "token": "__RO_TEXT_3__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Clear insights show what works and guide smarter decisions for growth.</span>"
+              },
+              {
+                "_id": "04t0004",
+                "label": "SEO, paid media, content, and branding work together to reach customer",
+                "token": "__RO_TEXT_4__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">SEO, paid media, content, and branding work together to reach customers.</span>"
+              },
+              {
+                "_id": "04t0005",
+                "label": "Turn brand visibility into customer interest and measurable growth ove",
+                "token": "__RO_TEXT_5__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Turn brand visibility into customer interest and measurable growth over time.</span>"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "04m0000",
+                "label": "285bd9d052643700fd0786b4ff146a3a5a73f04d",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0037-285bd9d052643700fd0786b4ff146a3a5a73f04d-rr6td83fj642akjcsncbs1w2fkmgl9khzlfl2psn1c.png"
+                }
+              },
+              {
+                "_id": "04m0001",
+                "label": "79101fa0d7dd89c3162d6b3befce838db8dd2222",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0038-79101fa0d7dd89c3162d6b3befce838db8dd2222-rr6td4c2rtyuygydyzuknd980naklvygdq9uybapto.png"
+                }
+              },
+              {
+                "_id": "04m0002",
+                "label": "d18a2e41144e021385aa2c1218b401599755ab97",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0039-d18a2e41144e021385aa2c1218b401599755ab97-rr6td1ik7bv21aswv2hxslju9viw3dudmov6ps2e8w.png"
+                }
+              },
+              {
+                "_id": "04m0003",
+                "label": "12fb7e44d6184b25e97c7c28182013fb545d01d0",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0040-12fb7e44d6184b25e97c7c28182013fb545d01d0-rr6tcxr7fzpup77y1f06nwwzuy70408c0tpgldkh18.png"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000005",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Services introduction",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000005",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-05",
+            "text_items": [
+              {
+                "_id": "05t0000",
+                "label": "What Moves Your Brand Forward",
+                "token": "__RO_TEXT_0__",
+                "copy": "What Moves Your Brand Forward"
+              },
+              {
+                "_id": "05t0001",
+                "label": "Everything That Puts YourBusiness First",
+                "token": "__RO_TEXT_1__",
+                "copy": "Everything That Puts Your<br class=\"two_elementor_element\"><span class=\"two_elementor_element\"><span class=\"gradient-text\">Business First</span></span>"
+              }
+            ],
+            "media_items": [],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000006",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Stacked service cards",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000006",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-06",
+            "text_items": [
+              {
+                "_id": "06t0000",
+                "label": "Paid Media",
+                "token": "__RO_TEXT_0__",
+                "copy": "Paid Media"
+              },
+              {
+                "_id": "06t0001",
+                "label": "Content Systems",
+                "token": "__RO_TEXT_1__",
+                "copy": "Content Systems"
+              },
+              {
+                "_id": "06t0002",
+                "label": "Conversion Optimization",
+                "token": "__RO_TEXT_2__",
+                "copy": "Conversion Optimization"
+              },
+              {
+                "_id": "06t0003",
+                "label": "Digital Marketing",
+                "token": "__RO_TEXT_3__",
+                "copy": "Digital Marketing"
+              },
+              {
+                "_id": "06t0004",
+                "label": "Put your brand in front of the right people at the right moment. We tu",
+                "token": "__RO_TEXT_4__",
+                "copy": "Put your brand in front of the right people at the right moment. We turn search demand into qualified traffic and guide every visitor toward becoming a customer."
+              },
+              {
+                "_id": "06t0005",
+                "label": "Bespoke Web Development",
+                "token": "__RO_TEXT_5__",
+                "copy": "Bespoke Web Development"
+              },
+              {
+                "_id": "06t0006",
+                "label": "E-Commerce Platforms",
+                "token": "__RO_TEXT_6__",
+                "copy": "E-Commerce Platforms"
+              },
+              {
+                "_id": "06t0007",
+                "label": "Speed Optimization",
+                "token": "__RO_TEXT_7__",
+                "copy": "Speed Optimization"
+              },
+              {
+                "_id": "06t0008",
+                "label": "Web Development",
+                "token": "__RO_TEXT_8__",
+                "copy": "Web Development"
+              },
+              {
+                "_id": "06t0009",
+                "label": "Give your customers a digital experience that feels effortless from th",
+                "token": "__RO_TEXT_9__",
+                "copy": "Give your customers a digital experience that feels effortless from the first click. Fast and intuitive websites make it easier for people to explore your offer and take the next step."
+              },
+              {
+                "_id": "06t000a",
+                "label": "Brand Identity",
+                "token": "__RO_TEXT_10__",
+                "copy": "Brand Identity"
+              },
+              {
+                "_id": "06t000b",
+                "label": "UI/UX Design",
+                "token": "__RO_TEXT_11__",
+                "copy": "UI/UX Design"
+              },
+              {
+                "_id": "06t000c",
+                "label": "Creative Direction",
+                "token": "__RO_TEXT_12__",
+                "copy": "Creative Direction"
+              },
+              {
+                "_id": "06t000d",
+                "label": "Design",
+                "token": "__RO_TEXT_13__",
+                "copy": "Design"
+              },
+              {
+                "_id": "06t000e",
+                "label": "Make your brand impossible to overlook and easy to remember. Every vis",
+                "token": "__RO_TEXT_14__",
+                "copy": "Make your brand impossible to overlook and easy to remember. Every visual detail works together to express your value and create a stronger connection with your audience."
+              },
+              {
+                "_id": "06t000f",
+                "label": "Video Production",
+                "token": "__RO_TEXT_15__",
+                "copy": "Video Production"
+              },
+              {
+                "_id": "06t0010",
+                "label": "Visual Campaigns",
+                "token": "__RO_TEXT_16__",
+                "copy": "Visual Campaigns"
+              },
+              {
+                "_id": "06t0011",
+                "label": "Audio and Multimedia",
+                "token": "__RO_TEXT_17__",
+                "copy": "Audio and Multimedia"
+              },
+              {
+                "_id": "06t0012",
+                "label": "Media Production",
+                "token": "__RO_TEXT_18__",
+                "copy": "Media Production"
+              },
+              {
+                "_id": "06t0013",
+                "label": "Bring your message to life through content people want to watch and sh",
+                "token": "__RO_TEXT_19__",
+                "copy": "Bring your message to life through content people want to watch and share. From powerful visuals to memorable sound, our production helps your brand earn attention and build trust."
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "06m0000",
+                "label": "Digital Marketing",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0041-Digital-Marketing-1-scaled-e1786488670631.webp"
+                }
+              },
+              {
+                "_id": "06m0001",
+                "label": "Web Development",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0042-3-scaled.webp"
+                }
+              },
+              {
+                "_id": "06m0002",
+                "label": "Design",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0043-design.png"
+                }
+              },
+              {
+                "_id": "06m0003",
+                "label": "Media Production",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0044-1-scaled.webp"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "06l0000",
+                "label": "Paid MediaContent SystemsConversion OptimizationDigital MarketingPut y",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "https://rankorbit.com/digital-marketing/"
+                }
+              },
+              {
+                "_id": "06l0001",
+                "label": "Bespoke Web DevelopmentE-Commerce PlatformsSpeed OptimizationWeb Devel",
+                "token": "__RO_LINK_1__",
+                "target": {
+                  "url": "https://rankorbit.com/web-development/"
+                }
+              },
+              {
+                "_id": "06l0002",
+                "label": "Brand IdentityUI/UX DesignCreative DirectionDesignMake your brand impo",
+                "token": "__RO_LINK_2__",
+                "target": {
+                  "url": "https://rankorbit.com/design/"
+                }
+              },
+              {
+                "_id": "06l0003",
+                "label": "Video ProductionVisual CampaignsAudio and MultimediaMedia ProductionBr",
+                "token": "__RO_LINK_3__",
+                "target": {
+                  "url": "https://rankorbit.com/media-production/"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000007",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Our process",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000007",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-07",
+            "text_items": [
+              {
+                "_id": "07t0000",
+                "label": "Our Process",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n            Our Process\n        "
+              },
+              {
+                "_id": "07t0001",
+                "label": "A Clear Path from Ideas to Measurable Expansion",
+                "token": "__RO_TEXT_1__",
+                "copy": "\n            A Clear Path\n            <span class=\"two_elementor_element\">from Ideas to</span>\n            Measurable Expansion\n        "
+              },
+              {
+                "_id": "07t0002",
+                "label": "Your goals become focused actions that build momentum and deliver stro",
+                "token": "__RO_TEXT_2__",
+                "copy": "\n            Your goals become focused actions that build momentum and deliver stronger business results.\n        "
+              },
+              {
+                "_id": "07t0003",
+                "label": "01",
+                "token": "__RO_TEXT_3__",
+                "copy": "\n                    01\n                "
+              },
+              {
+                "_id": "07t0004",
+                "label": "Discover",
+                "token": "__RO_TEXT_4__",
+                "copy": "\n                    Discover\n                "
+              },
+              {
+                "_id": "07t0005",
+                "label": "Your brand goals, audience, and development challenges come into focus",
+                "token": "__RO_TEXT_5__",
+                "copy": "\n                    Your brand goals, audience, and development challenges come into focus.\n                "
+              },
+              {
+                "_id": "07t0006",
+                "label": "02",
+                "token": "__RO_TEXT_6__",
+                "copy": "\n                    02\n                "
+              },
+              {
+                "_id": "07t0007",
+                "label": "Strategize",
+                "token": "__RO_TEXT_7__",
+                "copy": "\n                    Strategize\n                "
+              },
+              {
+                "_id": "07t0008",
+                "label": "A focused plan takes shape around your strongest opportunities.",
+                "token": "__RO_TEXT_8__",
+                "copy": "\n                    A focused plan takes shape around your strongest opportunities.\n                "
+              },
+              {
+                "_id": "07t0009",
+                "label": "03",
+                "token": "__RO_TEXT_9__",
+                "copy": "\n                    03\n                "
+              },
+              {
+                "_id": "07t000a",
+                "label": "Create",
+                "token": "__RO_TEXT_10__",
+                "copy": "\n                    Create\n                "
+              },
+              {
+                "_id": "07t000b",
+                "label": "Campaigns, content, and digital experiences come to life to drive acti",
+                "token": "__RO_TEXT_11__",
+                "copy": "\n                    Campaigns, content, and digital experiences come to life to drive action.\n                "
+              },
+              {
+                "_id": "07t000c",
+                "label": "04",
+                "token": "__RO_TEXT_12__",
+                "copy": "\n                    04\n                "
+              },
+              {
+                "_id": "07t000d",
+                "label": "Grow",
+                "token": "__RO_TEXT_13__",
+                "copy": "\n                    Grow\n                "
+              },
+              {
+                "_id": "07t000e",
+                "label": "Performance insights guide continuous improvements for lasting results",
+                "token": "__RO_TEXT_14__",
+                "copy": "\n                    Performance insights guide continuous improvements for lasting results.\n                "
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "07m0000",
+                "label": "Discover",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0045-Screenshot-2026-07-31-204045-e1785512547826.png"
+                }
+              },
+              {
+                "_id": "07m0001",
+                "label": "Strategize",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0046-Screenshot-2026-07-31-205132.png"
+                }
+              },
+              {
+                "_id": "07m0002",
+                "label": "Create",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0047-Screenshot-2026-07-31-205254.png"
+                }
+              },
+              {
+                "_id": "07m0003",
+                "label": "Grow",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0048-Screenshot-2026-07-31-205347.png"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000008",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Brands we have served",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000008",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-08",
+            "text_items": [
+              {
+                "_id": "08t0000",
+                "label": "Brands we\u2019ve served",
+                "token": "__RO_TEXT_0__",
+                "copy": "Brands we\u2019ve served"
+              },
+              {
+                "_id": "08t0001",
+                "label": "Brands That Choose a Better Way to Grow",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"two_elementor_element\">Brands That <span class=\"gradient-text\">Choose</span> a </span><br class=\"two_elementor_element\"><span class=\"two_elementor_element\">Better Way to <span class=\"gradient-text\">Grow</span></span>"
+              },
+              {
+                "_id": "08t0002",
+                "label": "WeBookGuide trusted us to refine its brand identity and digital presen",
+                "token": "__RO_TEXT_2__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">WeBookGuide trusted us to refine its brand identity and digital presence, creating a clearer experience for users seeking practical travel guidance online worldwide.</span>"
+              },
+              {
+                "_id": "08t0003",
+                "label": "Quatta partnered with our team to strengthen its visual identity and d",
+                "token": "__RO_TEXT_3__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Quatta partnered with our team to strengthen its visual identity and digital communication, helping the brand present a polished and consistent customer experience.</span>"
+              },
+              {
+                "_id": "08t0004",
+                "label": "Audiolux worked with us to create an engaging online presence combinin",
+                "token": "__RO_TEXT_4__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Audiolux worked with us to create an engaging online presence combining thoughtful design and marketing support to connect naturally with its growing audience.</span>"
+              },
+              {
+                "_id": "08t0005",
+                "label": "Rockstar Painting trusted our team to elevate its brand image with pol",
+                "token": "__RO_TEXT_5__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Rockstar Painting trusted our team to elevate its brand image with polished design and clearer online messaging for stronger local customer connections overall.</span>"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "08m0000",
+                "label": "we book guides",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0049-we-book-guides-scaled-rs5mqcdgtxirrzuzpw53k6nd6uizdm33b1sraplyrg.png"
+                }
+              },
+              {
+                "_id": "08m0001",
+                "label": "Quatta",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0050-Quatta-e1787174737584-rs5jwtsyq2jxw3bgi0fm9sv7kqvw2f2pclcxew4mrg.png"
+                }
+              },
+              {
+                "_id": "08m0002",
+                "label": "Automotive website design screenshot",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0051-image__44_-removebg-preview-rtsbkm1svf193owlxc1ecchei94pv07utoawanz8gw.png"
+                }
+              },
+              {
+                "_id": "08m0003",
+                "label": "Rockstar Painting",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0052-Rockstar-Painting-e1787174819461-rs5jyztkhbiqnq64ug5nir6gvq7ctaofbbi88uwyf0.png"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000009",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Video testimonials",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000009",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-09",
+            "text_items": [
+              {
+                "_id": "09t0000",
+                "label": "Trusted By Businesses That Demand Results.",
+                "token": "__RO_TEXT_0__",
+                "copy": "Trusted By<br class=\"two_elementor_element\"><span class=\"two_elementor_element\"> <span class=\"gradient-text\">Businesses</span> That Demand <span class=\"gradient-text\">Results</span>.</span>"
+              },
+              {
+                "_id": "09t0001",
+                "label": "Hear from the brands who\u2019ve experienced Rank Orbit\u2019s connected approac",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Hear from the brands who\u2019ve experienced Rank Orbit\u2019s connected approach firsthand, and the outcomes that came with it.</span>"
+              },
+              {
+                "_id": "09t0002",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_2__",
+                "copy": "\u25ba"
+              },
+              {
+                "_id": "09t0003",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_3__",
+                "copy": "\u25ba"
+              },
+              {
+                "_id": "09t0004",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_4__",
+                "copy": "\u25ba"
+              },
+              {
+                "_id": "09t0005",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_5__",
+                "copy": "\u25ba"
+              },
+              {
+                "_id": "09t0006",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_6__",
+                "copy": "\u25ba"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "09m0000",
+                "label": "Video review 1",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0053-2-1.webp"
+                }
+              },
+              {
+                "_id": "09m0001",
+                "label": "Video review 2",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0054-8-1.webp"
+                }
+              },
+              {
+                "_id": "09m0002",
+                "label": "Video review 3",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0055-7-1.webp"
+                }
+              },
+              {
+                "_id": "09m0003",
+                "label": "Video review 4",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0056-1-1.webp"
+                }
+              },
+              {
+                "_id": "09m0004",
+                "label": "Rank Orbit video review",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0057-image-46.jpg"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "09l0000",
+                "label": "\u25ba",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2025/12/1.mp4"
+                }
+              },
+              {
+                "_id": "09l0001",
+                "label": "\u25ba",
+                "token": "__RO_LINK_1__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2025/12/2.mp4"
+                }
+              },
+              {
+                "_id": "09l0002",
+                "label": "\u25ba",
+                "token": "__RO_LINK_2__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2025/12/3.mp4"
+                }
+              },
+              {
+                "_id": "09l0003",
+                "label": "\u25ba",
+                "token": "__RO_LINK_3__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2026/09/8-1.mp4"
+                }
+              },
+              {
+                "_id": "09l0004",
+                "label": "\u25ba",
+                "token": "__RO_LINK_4__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2026/10/rank-orbit-review.mp4"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b00000a",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Google reviews",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000a",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-10",
+            "text_items": [
+              {
+                "_id": "0at0000",
+                "label": "Rank Orbit LLC",
+                "token": "__RO_TEXT_0__",
+                "copy": " Rank Orbit LLC"
+              },
+              {
+                "_id": "0at0001",
+                "label": "Write a review",
+                "token": "__RO_TEXT_1__",
+                "copy": "Write a review"
+              },
+              {
+                "_id": "0at0002",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_2__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0003",
+                "label": "Savi",
+                "token": "__RO_TEXT_3__",
+                "copy": " Savi "
+              },
+              {
+                "_id": "0at0004",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_4__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0005",
+                "label": "Will Goldberg and Rank Orbit LLC helped us a lot with our Online prese",
+                "token": "__RO_TEXT_5__",
+                "copy": "<!-- R-CONTENT -->Will Goldberg and Rank Orbit LLC helped us a lot with our Online presence, I'll recommend them!<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at0006",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_6__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0007",
+                "label": "Chijioke Egbujo",
+                "token": "__RO_TEXT_7__",
+                "copy": " Chijioke Egbujo "
+              },
+              {
+                "_id": "0at0008",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_8__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0009",
+                "label": "Kevin Brown was really helpful and knowledgeable. He knew just what I ",
+                "token": "__RO_TEXT_9__",
+                "copy": "<!-- R-CONTENT -->Kevin Brown was really helpful and knowledgeable. He knew just what I needed and helped design a great website for me. Thank you!!<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at000a",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_10__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at000b",
+                "label": "Rockstarpainting1",
+                "token": "__RO_TEXT_11__",
+                "copy": " Rockstarpainting1 "
+              },
+              {
+                "_id": "0at000c",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_12__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at000d",
+                "label": "Highly recommend this company. Working with them for over 4 years now ",
+                "token": "__RO_TEXT_13__",
+                "copy": "<!-- R-CONTENT -->Highly recommend this company. Working with them for over 4 years now and everyday is an improvement. Jason and Rank Orbit deserves 5 stars.<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at000e",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_14__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at000f",
+                "label": "Nestor Rodriguez",
+                "token": "__RO_TEXT_15__",
+                "copy": " Nestor Rodriguez "
+              },
+              {
+                "_id": "0at0010",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_16__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0011",
+                "label": "The customer service here is incredible. Always prepared to answer any",
+                "token": "__RO_TEXT_17__",
+                "copy": "<!-- R-CONTENT -->The customer service here is incredible. Always prepared to answer any questions. Great results too<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at0012",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_18__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0013",
+                "label": "Cynthia Franklin",
+                "token": "__RO_TEXT_19__",
+                "copy": " Cynthia Franklin "
+              },
+              {
+                "_id": "0at0014",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_20__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0015",
+                "label": "I really enjoyed working with Jason. I was a little skeptical at first",
+                "token": "__RO_TEXT_21__",
+                "copy": "<!-- R-CONTENT -->I really enjoyed working with Jason. I was a little skeptical at first but all the work he put into the website and other work with my social media and other sites is amazing.<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at0016",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_22__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0017",
+                "label": "Arian Mazumder",
+                "token": "__RO_TEXT_23__",
+                "copy": " Arian Mazumder "
+              },
+              {
+                "_id": "0at0018",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_24__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0019",
+                "label": "Had a great experience with Rank Orbit. They made me a beautiful websi",
+                "token": "__RO_TEXT_25__",
+                "copy": "<!-- R-CONTENT -->Had a great experience with Rank Orbit. They made me a beautiful website for my business. Jason was very easy to talk to and friendly and explain the process thoroughly. They were also very quick. I highly recommend Rank Orbit to anybody looking to create a website for their business!<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at001a",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_26__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at001b",
+                "label": "brad dunevitz",
+                "token": "__RO_TEXT_27__",
+                "copy": " brad dunevitz "
+              },
+              {
+                "_id": "0at001c",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_28__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at001d",
+                "label": "After working with and quickly dismissing two marketing agencies, I ha",
+                "token": "__RO_TEXT_29__",
+                "copy": "<!-- R-CONTENT -->After working with and quickly dismissing two marketing agencies, I happily found Rank Orbit. Before hiring them, I asked Jason multiple questions, all of which he answered promptly and professionally. And he did not overpromise, which I had discovered, prior to finding Rank Orbit, was a common habit among some marketing agencies. That promptness and professionalism has continued throughout our work together. Thank you, Jason!<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at001e",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_30__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at001f",
+                "label": "Brook Gardner (The Mooo-ving Realtor)",
+                "token": "__RO_TEXT_31__",
+                "copy": " Brook Gardner (The Mooo-ving Realtor) "
+              },
+              {
+                "_id": "0at0020",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_32__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0021",
+                "label": "Jason was very helpful in calming me down after a competitor called sa",
+                "token": "__RO_TEXT_33__",
+                "copy": "<!-- R-CONTENT -->Jason was very helpful in calming me down after a competitor called saying I had not posted on 2 years, and I knew rank orbit had posted for me. he took me to the report and web site and showed me where they had posted for me... Thank you Jason<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at0022",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_34__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0023",
+                "label": "Dylan Serna",
+                "token": "__RO_TEXT_35__",
+                "copy": " Dylan Serna "
+              },
+              {
+                "_id": "0at0024",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_36__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0025",
+                "label": "Rank Orbit really helped out on my SEO significantly after the first 3",
+                "token": "__RO_TEXT_37__",
+                "copy": "<!-- R-CONTENT -->Rank Orbit really helped out on my SEO significantly after the first 30 days of working with them. They sent me a report with my rankings after our first 30 days and already got me from 6th to 2nd place in SEO keywords. They are prompt at communicating as well<!-- R-CONTENT -->"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "0am0000",
+                "label": "Rank Orbit LLC",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0058-photo.jpg"
+                }
+              },
+              {
+                "_id": "0am0001",
+                "label": "Google",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0002",
+                "label": "Savi profile picture",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0060-ACg8ocJdJTfwTN261fElTxG2cIOffqNw5sYm18YMoqxwghESPHMo0A_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am0003",
+                "label": "Google",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0004",
+                "label": "Chijioke Egbujo profile picture",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0061-ACg8ocK0xvg_5J_JoUtSNYIgmatdKItODzhbm5mZM7CiJnP0JfSTxQ_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am0005",
+                "label": "Google",
+                "token": "__RO_MEDIA_5__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0006",
+                "label": "Rockstarpainting1 profile picture",
+                "token": "__RO_MEDIA_6__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0062-ALV-UjUd7rZeWWMcvV8jm-B5x0LTnzoRvBo_dd33H8sbKwCURM3IOiw_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am0007",
+                "label": "Google",
+                "token": "__RO_MEDIA_7__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0008",
+                "label": "Nestor Rodriguez profile picture",
+                "token": "__RO_MEDIA_8__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0063-ALV-UjWjkK49kvg-b8feLT1e-kvHunVNMQ9rry_ZGVe5zyVarfs-cxk_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am0009",
+                "label": "Google",
+                "token": "__RO_MEDIA_9__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am000a",
+                "label": "Cynthia Franklin profile picture",
+                "token": "__RO_MEDIA_10__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0064-ALV-UjUhNNwjHje2f375xxuLx-ZcEwGZVd9KIgaLtsmRHi1B3BL9v3M_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am000b",
+                "label": "Google",
+                "token": "__RO_MEDIA_11__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am000c",
+                "label": "Arian Mazumder profile picture",
+                "token": "__RO_MEDIA_12__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0065-ACg8ocIvdLFQGHp7CQgLQggM0J1XQCPiS4GFD99mAvrOz0Z1t0mUIsw_w40-h40-c-rp-mo-ba12-br100"
+                }
+              },
+              {
+                "_id": "0am000d",
+                "label": "Google",
+                "token": "__RO_MEDIA_13__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am000e",
+                "label": "brad dunevitz profile picture",
+                "token": "__RO_MEDIA_14__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0066-ALV-UjVfvfRvD_QTxND1cWAoczx5cGIM15Lnn4Xm9X-ud5D2sh4vqF02_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am000f",
+                "label": "Google",
+                "token": "__RO_MEDIA_15__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0010",
+                "label": "Brook Gardner (The Mooo-ving Realtor) profile picture",
+                "token": "__RO_MEDIA_16__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0067-ALV-UjV29ciEvkp0wFOXMwYDrY_6lT4jkkTMga0JnV3NhBvfR8mNW2tqFA_w40-h40-c-rp-mo-ba12-br100"
+                }
+              },
+              {
+                "_id": "0am0011",
+                "label": "Google",
+                "token": "__RO_MEDIA_17__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0012",
+                "label": "Dylan Serna profile picture",
+                "token": "__RO_MEDIA_18__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0068-ACg8ocKFzgRS66VZ4NDPkTqxUuBkh2LfqMeWBCLX-ZZFkf7G2kP0Hw_w40-h40-c-rp-mo-br100"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "0al0000",
+                "label": "Write a review",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "https://admin.trustindex.io/api/googleWriteReview?place-id=ChIJ-dCv5Qnlv60R8Z7CBJEai20"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b00000b",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Frequently asked questions",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000b",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-11",
+            "text_items": [
+              {
+                "_id": "0bt0000",
+                "label": "FAQs",
+                "token": "__RO_TEXT_0__",
+                "copy": "FAQs"
+              },
+              {
+                "_id": "0bt0001",
+                "label": "Questions Before You Grow",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"two_elementor_element\">Questions Before You <span class=\"gradient-text\">Grow</span></span>"
+              },
+              {
+                "_id": "0bt0002",
+                "label": "What can a digital growth partner do for my business?",
+                "token": "__RO_TEXT_2__",
+                "copy": " What can a digital growth partner do for my business? "
+              },
+              {
+                "_id": "0bt0003",
+                "label": "We help you attract the right buyers and turn attention into action, u",
+                "token": "__RO_TEXT_3__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We help you attract the right buyers and turn attention into action, using search, paid media, content, brand, development, and automation working as one plan.</span>"
+              },
+              {
+                "_id": "0bt0004",
+                "label": "Which services do you provide?",
+                "token": "__RO_TEXT_4__",
+                "copy": " Which services do you provide? "
+              },
+              {
+                "_id": "0bt0005",
+                "label": "We cover search strategy, paid advertising, content, website developme",
+                "token": "__RO_TEXT_5__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We cover search strategy, paid advertising, content, website development, e-commerce, brand identity, and AI-driven automation. We can support a single need or build a connected system.</span>"
+              },
+              {
+                "_id": "0bt0006",
+                "label": "Do you offer web development and app design?",
+                "token": "__RO_TEXT_6__",
+                "copy": " Do you offer web development and app design? "
+              },
+              {
+                "_id": "0bt0007",
+                "label": "Yes. We design and build websites, web applications, and mobile experi",
+                "token": "__RO_TEXT_7__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We design and build websites, web applications, and mobile experiences with UI/UX focused on turning visits into action, not just good looks.</span>"
+              },
+              {
+                "_id": "0bt0008",
+                "label": "Can you help with branding and creative direction?",
+                "token": "__RO_TEXT_8__",
+                "copy": " Can you help with branding and creative direction? "
+              },
+              {
+                "_id": "0bt0009",
+                "label": "Yes. We shape brand identity, positioning, and creative direction so e",
+                "token": "__RO_TEXT_9__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We shape brand identity, positioning, and creative direction so every touchpoint feels consistent and builds trust with your audience.</span>"
+              },
+              {
+                "_id": "0bt000a",
+                "label": "What does AI and automation support look like?",
+                "token": "__RO_TEXT_10__",
+                "copy": " What does AI and automation support look like? "
+              },
+              {
+                "_id": "0bt000b",
+                "label": "We build workflow systems and business process automation that reduce ",
+                "token": "__RO_TEXT_11__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We build workflow systems and business process automation that reduce manual work, connect your tools, and let your team focus on higher-value tasks.</span>"
+              },
+              {
+                "_id": "0bt000c",
+                "label": "Can you work with our current team?",
+                "token": "__RO_TEXT_12__",
+                "copy": " Can you work with our current team? "
+              },
+              {
+                "_id": "0bt000d",
+                "label": "Yes. We can lead strategy, support your internal staff, or fill a spec",
+                "token": "__RO_TEXT_13__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We can lead strategy, support your internal staff, or fill a specific skills gap. Our role stays flexible while objectives remain clear.</span>"
+              },
+              {
+                "_id": "0bt000e",
+                "label": "Do you work with businesses in different industries?",
+                "token": "__RO_TEXT_14__",
+                "copy": " Do you work with businesses in different industries? "
+              },
+              {
+                "_id": "0bt000f",
+                "label": "Yes. We start by learning your market, offer, and audience. That insig",
+                "token": "__RO_TEXT_15__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We start by learning your market, offer, and audience. That insight shapes a useful approach instead of a generic formula.</span>"
+              },
+              {
+                "_id": "0bt0010",
+                "label": "Can you help if our channels feel disconnected?",
+                "token": "__RO_TEXT_16__",
+                "copy": " Can you help if our channels feel disconnected? "
+              },
+              {
+                "_id": "0bt0011",
+                "label": "Yes. We review your platforms, messaging, website, and user journey, t",
+                "token": "__RO_TEXT_17__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We review your platforms, messaging, website, and user journey, then show you where stronger links reduce waste and improve conversion paths.</span>"
+              },
+              {
+                "_id": "0bt0012",
+                "label": "How do you measure success?",
+                "token": "__RO_TEXT_18__",
+                "copy": " How do you measure success? "
+              },
+              {
+                "_id": "0bt0013",
+                "label": "We agree on meaningful benchmarks before work begins. Depending on you",
+                "token": "__RO_TEXT_19__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We agree on meaningful benchmarks before work begins. Depending on your business, we may track qualified leads, sales, revenue, or other useful performance signals.</span>"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "0bm0000",
+                "label": "elementor-background-video-hosted",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0069-FAQs-2.mp4"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b00000c",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Free consultation",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000c",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-12",
+            "text_items": [
+              {
+                "_id": "0ct0000",
+                "label": "Free Consultation",
+                "token": "__RO_TEXT_0__",
+                "copy": "Free Consultation"
+              },
+              {
+                "_id": "0ct0001",
+                "label": "Discover What Could Move Your Business Forward",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"two_elementor_element\"><span class=\"gradient-text\">Discover</span> What Could</span><br class=\"two_elementor_element\"><span class=\"two_elementor_element\"> Move Your Business <span class=\"gradient-text\">Forward</span></span>"
+              },
+              {
+                "_id": "0ct0002",
+                "label": "Every successful project starts with understanding. We hear your conce",
+                "token": "__RO_TEXT_2__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Every successful project starts with understanding. We hear your concerns, uncover opportunities, and recommend a marketing path.</span>"
+              },
+              {
+                "_id": "0ct0003",
+                "label": "Call us at: (559) 900-2336",
+                "token": "__RO_TEXT_3__",
+                "copy": "<strong class=\"two_elementor_element\">Call us at: <a href=\"__RO_LINK_0__\" class=\"two_elementor_element\"><span data-teams=\"true\" class=\"two_elementor_element\">(559) 900-2336</span></a></strong>"
+              },
+              {
+                "_id": "0ct0004",
+                "label": "What We Bring to You:",
+                "token": "__RO_TEXT_4__",
+                "copy": "What We Bring to You:"
+              },
+              {
+                "_id": "0ct0005",
+                "label": "Clear Insight",
+                "token": "__RO_TEXT_5__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Clear Insight</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct0006",
+                "label": "Goal Review",
+                "token": "__RO_TEXT_6__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Goal Review</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct0007",
+                "label": "Marketing Advice",
+                "token": "__RO_TEXT_7__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Marketing Advice</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct0008",
+                "label": "Option Clarity",
+                "token": "__RO_TEXT_8__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Option Clarity</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct0009",
+                "label": "Tailored Solutions",
+                "token": "__RO_TEXT_9__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Tailored Solutions</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct000a",
+                "label": "Growth Direction",
+                "token": "__RO_TEXT_10__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Growth Direction</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct000b",
+                "label": "What happens next?",
+                "token": "__RO_TEXT_11__",
+                "copy": "What happens next?"
+              },
+              {
+                "_id": "0ct000c",
+                "label": "1",
+                "token": "__RO_TEXT_12__",
+                "copy": "1"
+              },
+              {
+                "_id": "0ct000d",
+                "label": "We Learn About Your Business",
+                "token": "__RO_TEXT_13__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We Learn About Your Business</span>"
+              },
+              {
+                "_id": "0ct000e",
+                "label": "2",
+                "token": "__RO_TEXT_14__",
+                "copy": "2"
+              },
+              {
+                "_id": "0ct000f",
+                "label": "We Explore The Right Solutions",
+                "token": "__RO_TEXT_15__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We Explore The Right Solutions</span>"
+              },
+              {
+                "_id": "0ct0010",
+                "label": "3",
+                "token": "__RO_TEXT_16__",
+                "copy": "3"
+              },
+              {
+                "_id": "0ct0011",
+                "label": "We Outline Your Next Steps",
+                "token": "__RO_TEXT_17__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We Outline Your Next Steps</span>"
+              },
+              {
+                "_id": "0ct0012",
+                "label": "Schedule a Free Consultation",
+                "token": "__RO_TEXT_18__",
+                "copy": "Schedule a Free Consultation"
+              },
+              {
+                "_id": "0ct0013",
+                "label": "First Name *",
+                "token": "__RO_TEXT_19__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nFirst Name *<br class=\"two_elementor_element\">\n</label>\n\t\t"
+              },
+              {
+                "_id": "0ct0014",
+                "label": "Phone Number *",
+                "token": "__RO_TEXT_20__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nPhone Number *<br class=\"two_elementor_element\">\n</label>\n\t\t\t"
+              },
+              {
+                "_id": "0ct0015",
+                "label": "Email Address *",
+                "token": "__RO_TEXT_21__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nEmail Address *<br class=\"two_elementor_element\">\n</label>\n\t\t\t"
+              },
+              {
+                "_id": "0ct0016",
+                "label": "Company / Organization",
+                "token": "__RO_TEXT_22__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nCompany / Organization<br class=\"two_elementor_element\">\n</label>\n\t\t"
+              },
+              {
+                "_id": "0ct0017",
+                "label": "How Can We Help You? *",
+                "token": "__RO_TEXT_23__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nHow Can We Help You? *<br class=\"two_elementor_element\">\n</label>\n\t\t"
+              },
+              {
+                "_id": "0ct0018",
+                "label": "Message *",
+                "token": "__RO_TEXT_24__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nMessage *<br class=\"two_elementor_element\">\n</label>\n\t\t"
+              }
+            ],
+            "media_items": [],
+            "link_items": [
+              {
+                "_id": "0cl0000",
+                "label": "(559) 900-2336",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "tel:(559) 900-2336"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b00000d",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Animated closing call to action",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000d",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "footer-1",
+            "text_items": [
+              {
+                "_id": "0dt0000",
+                "label": "100+ Happy Clients",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n                100+ Happy Clients\n            "
+              },
+              {
+                "_id": "0dt0001",
+                "label": "Build \u2022 Grow \u2022 Scale",
+                "token": "__RO_TEXT_1__",
+                "copy": "\n                Build \u2022 Grow \u2022 Scale\n            "
+              },
+              {
+                "_id": "0dt0002",
+                "label": "Creative + Technology",
+                "token": "__RO_TEXT_2__",
+                "copy": "\n                Creative + Technology\n            "
+              },
+              {
+                "_id": "0dt0003",
+                "label": "Turn Your Vision Into Real Progress",
+                "token": "__RO_TEXT_3__",
+                "copy": "\n                Turn Your Vision\n                <strong class=\"two_elementor_element\">Into Real Progress</strong>\n            "
+              },
+              {
+                "_id": "0dt0004",
+                "label": "Get clear direction and practical digital solutions designed around yo",
+                "token": "__RO_TEXT_4__",
+                "copy": "\n                Get clear direction and practical digital solutions designed around your business goals.\n            "
+              },
+              {
+                "_id": "0dt0005",
+                "label": "Explore Your Opportunities",
+                "token": "__RO_TEXT_5__",
+                "copy": "Explore Your Opportunities"
+              }
+            ],
+            "media_items": [],
+            "link_items": [
+              {
+                "_id": "0dl0000",
+                "label": "Explore Your Opportunities \u2197",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "#contact"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b00000e",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Office addresses",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000e",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "footer-2",
+            "text_items": [
+              {
+                "_id": "0et0000",
+                "label": "Head Office (USA)",
+                "token": "__RO_TEXT_0__",
+                "copy": "Head Office (USA)\n"
+              },
+              {
+                "_id": "0et0001",
+                "label": "1187 N Willow Ave Clovis, CA 93611",
+                "token": "__RO_TEXT_1__",
+                "copy": "1187 N Willow Ave Clovis, CA 93611"
+              },
+              {
+                "_id": "0et0002",
+                "label": "UAE Address",
+                "token": "__RO_TEXT_2__",
+                "copy": "UAE Address\n"
+              },
+              {
+                "_id": "0et0003",
+                "label": "The One Tower, Sheikh Zayed Rd, Al Thanyah First, Barsha Heights, Duba",
+                "token": "__RO_TEXT_3__",
+                "copy": "The One Tower, Sheikh Zayed Rd, Al Thanyah First, Barsha Heights, Dubai, United Arab Emirates"
+              }
+            ],
+            "media_items": [],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b00000f",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Footer & payment logos",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000f",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "footer-3",
+            "text_items": [
+              {
+                "_id": "0ft0000",
+                "label": "Rank Orbit helps ambitious brands grow through smart strategy and meas",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n                        Rank Orbit helps ambitious brands grow through\n                        smart strategy and measurable digital solutions\n                        that attract customers, strengthen visibility,\n                        and support lasting business success.\n                    "
+              },
+              {
+                "_id": "0ft0001",
+                "label": "Quick Links",
+                "token": "__RO_TEXT_1__",
+                "copy": "Quick Links"
+              },
+              {
+                "_id": "0ft0002",
+                "label": "Home",
+                "token": "__RO_TEXT_2__",
+                "copy": "\n                            <a href=\"__RO_LINK_6__\" class=\"two_elementor_element\">\n                                Home\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0003",
+                "label": "About Us",
+                "token": "__RO_TEXT_3__",
+                "copy": "\n                            <a href=\"__RO_LINK_7__\" class=\"two_elementor_element\">\n                                About Us\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0004",
+                "label": "Services",
+                "token": "__RO_TEXT_4__",
+                "copy": "\n                            <a href=\"__RO_LINK_8__\" class=\"two_elementor_element\">\n                                Services\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0005",
+                "label": "Blog",
+                "token": "__RO_TEXT_5__",
+                "copy": "\n                            <a href=\"__RO_LINK_9__\" class=\"two_elementor_element\">\n                                Blog\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0006",
+                "label": "Contact Us",
+                "token": "__RO_TEXT_6__",
+                "copy": "\n                            <a href=\"__RO_LINK_10__\" class=\"two_elementor_element\">\n                                Contact Us\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0007",
+                "label": "Get a Free Proposal",
+                "token": "__RO_TEXT_7__",
+                "copy": "\n                            <a href=\"__RO_LINK_11__\" class=\"two_elementor_element\">\n                                Get a Free Proposal\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0008",
+                "label": "Our Services",
+                "token": "__RO_TEXT_8__",
+                "copy": "Our Services"
+              },
+              {
+                "_id": "0ft0009",
+                "label": "Digital Marketing",
+                "token": "__RO_TEXT_9__",
+                "copy": "\n                            <a href=\"__RO_LINK_12__\" class=\"two_elementor_element\">\n                                Digital Marketing\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000a",
+                "label": "Web Design & Development",
+                "token": "__RO_TEXT_10__",
+                "copy": "\n                            <a href=\"__RO_LINK_13__\" class=\"two_elementor_element\">\n                                Web Design &amp; Development\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000b",
+                "label": "Custom Development",
+                "token": "__RO_TEXT_11__",
+                "copy": "\n                            <a href=\"__RO_LINK_14__\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"two_elementor_element\">\n                                Custom Development\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000c",
+                "label": "Video & Animation",
+                "token": "__RO_TEXT_12__",
+                "copy": "\n                            <a href=\"__RO_LINK_15__\" class=\"two_elementor_element\">\n                                Video &amp; Animation\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000d",
+                "label": "SEO & Content Writing",
+                "token": "__RO_TEXT_13__",
+                "copy": "\n                            <a href=\"__RO_LINK_16__\" class=\"two_elementor_element\">\n                                SEO &amp; Content Writing\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000e",
+                "label": "Branding & Identity",
+                "token": "__RO_TEXT_14__",
+                "copy": "\n                            <a href=\"__RO_LINK_17__\" class=\"two_elementor_element\">\n                                Branding &amp; Identity\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000f",
+                "label": "Contact Us",
+                "token": "__RO_TEXT_15__",
+                "copy": "Contact Us"
+              },
+              {
+                "_id": "0ft0010",
+                "label": "\u2726",
+                "token": "__RO_TEXT_16__",
+                "copy": "\n                        \u2726\n                    "
+              },
+              {
+                "_id": "0ft0011",
+                "label": "Rank Orbit Certified",
+                "token": "__RO_TEXT_17__",
+                "copy": "\n                        Rank Orbit Certified\n                    "
+              },
+              {
+                "_id": "0ft0012",
+                "label": "BBB Accredited Business",
+                "token": "__RO_TEXT_18__",
+                "copy": "\n                        BBB Accredited Business\n                    "
+              },
+              {
+                "_id": "0ft0013",
+                "label": "Trust Score 100",
+                "token": "__RO_TEXT_19__",
+                "copy": "\n                        Trust Score 100\n                    "
+              },
+              {
+                "_id": "0ft0014",
+                "label": "Chamber of Commerce.com",
+                "token": "__RO_TEXT_20__",
+                "copy": "\n                        Chamber of Commerce.com\n                    "
+              },
+              {
+                "_id": "0ft0015",
+                "label": "\u2197",
+                "token": "__RO_TEXT_21__",
+                "copy": "\n                        \u2197\n                    "
+              },
+              {
+                "_id": "0ft0016",
+                "label": "\u00a9 2026 Rank Orbit LLC. All Rights Reserved.",
+                "token": "__RO_TEXT_22__",
+                "copy": "\n                        \u00a9 2026                        Rank Orbit LLC. All Rights Reserved.\n                    "
+              },
+              {
+                "_id": "0ft0017",
+                "label": "Terms of Service",
+                "token": "__RO_TEXT_23__",
+                "copy": "\n                        Terms of Service\n                    "
+              },
+              {
+                "_id": "0ft0018",
+                "label": "Privacy Policy",
+                "token": "__RO_TEXT_24__",
+                "copy": "\n                        Privacy Policy\n                    "
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "0fm0000",
+                "label": "Rank Orbit",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0005-logo-e1785353786990.png"
+                }
+              },
+              {
+                "_id": "0fm0001",
+                "label": "Scan Rank Orbit QR Code",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0071-Zelle-Jpg-715x1024-1.jpg"
+                }
+              },
+              {
+                "_id": "0fm0002",
+                "label": "Rank Orbit ISO Certified",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0072-Group-2085661036.png"
+                }
+              },
+              {
+                "_id": "0fm0003",
+                "label": "BBB Accredited Business",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0073-782baafc4219f88f3cd2d796de2fcaf363377cd6.png"
+                }
+              },
+              {
+                "_id": "0fm0004",
+                "label": "Scam Adviser Trust Score 100",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0074-9240ad696721583156e731f724460eb4b6b351a4-scaled.png"
+                }
+              },
+              {
+                "_id": "0fm0005",
+                "label": "Chamber of Commerce",
+                "token": "__RO_MEDIA_5__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0075-166a71e940d132a1da798e3ca67fb9e557806fff-scaled.png"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "0fl0000",
+                "label": "Link",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "0fl0001",
+                "label": "Link",
+                "token": "__RO_LINK_1__",
+                "target": {
+                  "url": "https://www.facebook.com/rankorbit"
+                }
+              },
+              {
+                "_id": "0fl0002",
+                "label": "Link",
+                "token": "__RO_LINK_2__",
+                "target": {
+                  "url": "https://www.instagram.com/rankorbit/"
+                }
+              },
+              {
+                "_id": "0fl0003",
+                "label": "Link",
+                "token": "__RO_LINK_3__",
+                "target": {
+                  "url": "https://www.youtube.com/@rankorbit"
+                }
+              },
+              {
+                "_id": "0fl0004",
+                "label": "Link",
+                "token": "__RO_LINK_4__",
+                "target": {
+                  "url": "https://www.linkedin.com/company/rank-orbit/"
+                }
+              },
+              {
+                "_id": "0fl0005",
+                "label": "Link",
+                "token": "__RO_LINK_5__",
+                "target": {
+                  "url": "https://x.com/rank_orbit"
+                }
+              },
+              {
+                "_id": "0fl0006",
+                "label": "Home",
+                "token": "__RO_LINK_6__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "0fl0007",
+                "label": "About Us",
+                "token": "__RO_LINK_7__",
+                "target": {
+                  "url": "https://rankorbit.com/about/"
+                }
+              },
+              {
+                "_id": "0fl0008",
+                "label": "Services",
+                "token": "__RO_LINK_8__",
+                "target": {
+                  "url": "https://rankorbit.com/services/"
+                }
+              },
+              {
+                "_id": "0fl0009",
+                "label": "Blog",
+                "token": "__RO_LINK_9__",
+                "target": {
+                  "url": "https://rankorbit.com/blog/"
+                }
+              },
+              {
+                "_id": "0fl000a",
+                "label": "Contact Us",
+                "token": "__RO_LINK_10__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "0fl000b",
+                "label": "Get a Free Proposal",
+                "token": "__RO_LINK_11__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "0fl000c",
+                "label": "Digital Marketing",
+                "token": "__RO_LINK_12__",
+                "target": {
+                  "url": "https://rankorbit.com/digital-marketing/"
+                }
+              },
+              {
+                "_id": "0fl000d",
+                "label": "Web Design & Development",
+                "token": "__RO_LINK_13__",
+                "target": {
+                  "url": "https://rankorbit.com/development/"
+                }
+              },
+              {
+                "_id": "0fl000e",
+                "label": "Custom Development",
+                "token": "__RO_LINK_14__",
+                "target": {
+                  "url": "https://rankorbit.dev/"
+                }
+              },
+              {
+                "_id": "0fl000f",
+                "label": "Video & Animation",
+                "token": "__RO_LINK_15__",
+                "target": {
+                  "url": "https://rankorbit.com/media-production/"
+                }
+              },
+              {
+                "_id": "0fl0010",
+                "label": "SEO & Content Writing",
+                "token": "__RO_LINK_16__",
+                "target": {
+                  "url": "https://rankorbit.com/seo/"
+                }
+              },
+              {
+                "_id": "0fl0011",
+                "label": "Branding & Identity",
+                "token": "__RO_LINK_17__",
+                "target": {
+                  "url": "https://rankorbit.com/brand-identity/"
+                }
+              },
+              {
+                "_id": "0fl0012",
+                "label": "(559) 900-2336 Contact Number",
+                "token": "__RO_LINK_18__",
+                "target": {
+                  "url": "tel:+15599002336"
+                }
+              },
+              {
+                "_id": "0fl0013",
+                "label": "Sales@rankorbit.com Email Address",
+                "token": "__RO_LINK_19__",
+                "target": {
+                  "url": "mailto:Sales@rankorbit.com"
+                }
+              },
+              {
+                "_id": "0fl0014",
+                "label": "Head Office (USA) 1187 N Willow Ave #103-812 Clovis, CA 93611",
+                "token": "__RO_LINK_20__",
+                "target": {
+                  "url": "https://share.google/KhXfH5qgkEba5cnON"
+                }
+              },
+              {
+                "_id": "0fl0015",
+                "label": "Rank Orbit Certified",
+                "token": "__RO_LINK_21__",
+                "target": {
+                  "url": "https://www.iafcertsearch.org/certification/2x5ig5dgCnEUYx7yY6KCHiRF"
+                }
+              },
+              {
+                "_id": "0fl0016",
+                "label": "BBB Accredited Business",
+                "token": "__RO_LINK_22__",
+                "target": {
+                  "url": "https://www.bbb.org/us/ca/clovis/profile/internet-marketing-services/rank-orbit-1126-1000144879a"
+                }
+              },
+              {
+                "_id": "0fl0017",
+                "label": "Trust Score 100",
+                "token": "__RO_LINK_23__",
+                "target": {
+                  "url": "https://www.scamadviser.com/check-website/rankorbit.com"
+                }
+              },
+              {
+                "_id": "0fl0018",
+                "label": "Chamber of Commerce.com",
+                "token": "__RO_LINK_24__",
+                "target": {
+                  "url": "https://www.chamberofcommerce.com/business-directory/california/clovis/marketing-agency/2033706740-rank-orbit-llc"
+                }
+              },
+              {
+                "_id": "0fl0019",
+                "label": "Terms of Service",
+                "token": "__RO_LINK_25__",
+                "target": {
+                  "url": "https://rankorbit.com/terms-and-conditions/"
+                }
+              },
+              {
+                "_id": "0fl001a",
+                "label": "Privacy Policy",
+                "token": "__RO_LINK_26__",
+                "target": {
+                  "url": "https://rankorbit.com/privacy-policy/"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000010",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Back to top",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000010",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "footer-4",
+            "text_items": [],
+            "media_items": [],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "b000011",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Floating Get Started tab",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000011",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "floating",
+            "text_items": [
+              {
+                "_id": "11t0000",
+                "label": "GET STARTED",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n            GET STARTED\n        "
+              }
+            ],
+            "media_items": [],
+            "link_items": [
+              {
+                "_id": "11l0000",
+                "label": "GET STARTED",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "#contact"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+/* Adapt captured Elementor markup to a movable section widget. Original styles follow
+   their original IDs and page scopes; these rules repair capture/runtime artifacts. */
+.ro-reference-scope {width:100%;max-width:100%;}
+.elementor-widget-rankorbit_capture {width:100%;margin:0!important;--kit-widget-spacing:0px;}
+.elementor-widget-rankorbit_capture>.elementor-widget-container {margin:0;padding:0;}
+.ro-reference-scope video.elementor-background-video-hosted {width:100%!important;height:100%!important;object-fit:cover;}
+.ro-reference-scope .elementor-background-video-container {pointer-events:none;}
+.ro-reference-scope .elementor-element-4dc7ebd video {width:100%;border-radius:24px;object-fit:cover;}
+.ro-reference-scope .wpr-nav-menu>.menu-item-has-children:hover>.wpr-sub-mega-menu,
+.ro-reference-scope .wpr-nav-menu>.menu-item-has-children:focus-within>.wpr-sub-mega-menu {display:block;visibility:visible;opacity:1;pointer-events:auto;transform:translateY(0);}
+.ro-reference-scope .wpr-sub-mega-menu {transition:opacity .25s ease,transform .25s ease;}
+.ro-reference-scope .elementor-image-carousel-wrapper {overflow:hidden;}
+.ro-reference-scope .elementor-image-carousel {display:flex;align-items:center;transition-timing-function:linear;}
+.ro-reference-scope .elementor-image-carousel .swiper-slide {width:calc((100vw - 6 * 56px)/7);height:auto;flex-shrink:0;margin-right:56px;}
+.ro-reference-scope .elementor-image-carousel img {object-fit:contain;max-height:64px;}
+.ro-reference-scope .elementor-image-carousel-wrapper .elementor-swiper-button {cursor:pointer;z-index:5;}
+.ro-reference-scope .ti-reviews-container-wrapper {overflow-x:auto!important;scrollbar-width:none;scroll-behavior:smooth;}
+.ro-reference-scope .ti-reviews-container-wrapper::-webkit-scrollbar {display:none;}
+.ro-reference-scope .ti-review-item {flex-shrink:0;}
+.ro-form-status {font-size:14px;line-height:1.5;color:#54217b;margin-top:12px;}
+.ro-reference-scope .hidden-fields-container {display:none;}
+.ro-reference-scope .wpcf7-spinner {display:none;}
+.ro-reference-scope .ro-form-status:empty {display:none;}
+.ro-reference-scope input[type=submit] {cursor:pointer;}
+.ro-reference-scope .ro-menu-trigger {cursor:pointer;}
+.ro-reference-scope .e-n-accordion-item {interpolate-size:allow-keywords;}
+.ro-reference-scope .e-n-accordion-item::details-content {transition:height .4s ease,content-visibility .4s ease allow-discrete;height:0;overflow:clip;}
+.ro-reference-scope .e-n-accordion-item[open]::details-content {height:auto;}
+.ro-reference-scope .e-n-accordion-item[open]>.e-n-accordion-item-title .e-opened {display:inline-flex;}
+.ro-reference-scope .e-n-accordion-item[open]>.e-n-accordion-item-title .e-closed {display:none;}
+@media(max-width:767px){
+ .ro-reference-scope .elementor-image-carousel .swiper-slide{width:calc((100vw - 56px)/2);}
+ .ro-reference-scope .ali-sc-card{position:relative!important;top:auto!important;transform:none!important;filter:none!important;}
+}
+@media(prefers-reduced-motion:reduce){
+ .ro-reference-scope *,.ro-reference-scope *::before,.ro-reference-scope *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important;}
+ .ro-reference-scope .ro-process-card{opacity:1!important;transform:none!important;}
+}
+.ro-capture-container {--padding-top:0px;--padding-right:0px;--padding-bottom:0px;--padding-left:0px;--gap:0px;overflow:visible;}
+.ro-reference-scope .ali-orbit-button-icon {font-size:0;}
+.ro-reference-scope .ali-orbit-button-icon::after {content:"";display:block;width:19px;height:19px;background:currentColor;mask:center/contain no-repeat url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='black' stroke-width='2' d='M6 18L18 6M6 6h12v12'/%3E%3C/svg%3E");}

@@ -1,0 +1,145 @@
+{
+  "sections": [
+    {
+      "key": "header",
+      "title": "Header & navigation",
+      "editable_texts": 216,
+      "editable_media": 10,
+      "editable_links": 69
+    },
+    {
+      "key": "home-01",
+      "title": "Hero",
+      "editable_texts": 6,
+      "editable_media": 6,
+      "editable_links": 2
+    },
+    {
+      "key": "home-02",
+      "title": "What we do \u2014 scroll-driven orbit",
+      "editable_texts": 38,
+      "editable_media": 5,
+      "editable_links": 1
+    },
+    {
+      "key": "home-03",
+      "title": "Technology logo carousel",
+      "editable_texts": 0,
+      "editable_media": 17,
+      "editable_links": 0
+    },
+    {
+      "key": "home-04",
+      "title": "Why choose us",
+      "editable_texts": 6,
+      "editable_media": 4,
+      "editable_links": 0
+    },
+    {
+      "key": "home-05",
+      "title": "Services introduction",
+      "editable_texts": 2,
+      "editable_media": 0,
+      "editable_links": 0
+    },
+    {
+      "key": "home-06",
+      "title": "Stacked service cards",
+      "editable_texts": 20,
+      "editable_media": 4,
+      "editable_links": 4
+    },
+    {
+      "key": "home-07",
+      "title": "Our process",
+      "editable_texts": 15,
+      "editable_media": 4,
+      "editable_links": 0
+    },
+    {
+      "key": "home-08",
+      "title": "Brands we have served",
+      "editable_texts": 6,
+      "editable_media": 4,
+      "editable_links": 0
+    },
+    {
+      "key": "home-09",
+      "title": "Video testimonials",
+      "editable_texts": 7,
+      "editable_media": 5,
+      "editable_links": 5
+    },
+    {
+      "key": "home-10",
+      "title": "Google reviews",
+      "editable_texts": 38,
+      "editable_media": 19,
+      "editable_links": 1
+    },
+    {
+      "key": "home-11",
+      "title": "Frequently asked questions",
+      "editable_texts": 20,
+      "editable_media": 1,
+      "editable_links": 0
+    },
+    {
+      "key": "home-12",
+      "title": "Free consultation",
+      "editable_texts": 25,
+      "editable_media": 0,
+      "editable_links": 1
+    },
+    {
+      "key": "footer-1",
+      "title": "Animated closing call to action",
+      "editable_texts": 6,
+      "editable_media": 0,
+      "editable_links": 1
+    },
+    {
+      "key": "footer-2",
+      "title": "Office addresses",
+      "editable_texts": 4,
+      "editable_media": 0,
+      "editable_links": 0
+    },
+    {
+      "key": "footer-3",
+      "title": "Footer & payment logos",
+      "editable_texts": 25,
+      "editable_media": 6,
+      "editable_links": 27
+    },
+    {
+      "key": "footer-4",
+      "title": "Back to top",
+      "editable_texts": 0,
+      "editable_media": 0,
+      "editable_links": 0
+    },
+    {
+      "key": "floating",
+      "title": "Floating Get Started tab",
+      "editable_texts": 1,
+      "editable_media": 0,
+      "editable_links": 1
+    }
+  ],
+  "missing_video_sources": [
+    "https://rankorbit.com/wp-content/uploads/2025/12/1.mp4",
+    "https://rankorbit.com/wp-content/uploads/2025/12/2.mp4",
+    "https://rankorbit.com/wp-content/uploads/2025/12/3.mp4",
+    "https://rankorbit.com/wp-content/uploads/2026/09/8-1.mp4",
+    "https://rankorbit.com/wp-content/uploads/2026/10/rank-orbit-review.mp4"
+  ],
+  "source": "User-uploaded rankorbit.com capture, 2026-11-05",
+  "known_differences": [
+    "Mobile-specific hero video not included; captured desktop video used on mobile.",
+    "Stacked card runtime and logo carousel runtime were blob URLs not included; reconstructed from captured CSS and markup.",
+    "Testimonial video URLs were not downloaded by the capture.",
+    "Live Google-review loading and AI checkout/onboarding are not copied; review content is a static snapshot.",
+    "Consultation form uses the destination WordPress admin email, not the original site backend."
+  ]
+}

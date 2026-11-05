@@ -1,0 +1,20 @@
+[
+  {
+    "viewport": "desktop",
+    "page_errors": [],
+    "http_errors": [],
+    "remote_requests_blocked": [
+      "https://rankorbit.com/wp-content/uploads/2025/12/3.mp4"
+    ],
+    "horizontal_overflow": 0
+  },
+  {
+    "viewport": "mobile",
+    "page_errors": [],
+    "http_errors": [],
+    "remote_requests_blocked": [
+      "https://rankorbit.com/wp-content/uploads/2025/12/3.mp4"
+    ],
+    "horizontal_overflow": 0
+  }
+]
