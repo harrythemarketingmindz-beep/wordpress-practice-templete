@@ -1,0 +1,233 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Stacked service cards",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000006",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Stacked service cards",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000006",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-06",
+            "text_items": [
+              {
+                "_id": "06t0000",
+                "label": "Paid Media",
+                "token": "__RO_TEXT_0__",
+                "copy": "Paid Media"
+              },
+              {
+                "_id": "06t0001",
+                "label": "Content Systems",
+                "token": "__RO_TEXT_1__",
+                "copy": "Content Systems"
+              },
+              {
+                "_id": "06t0002",
+                "label": "Conversion Optimization",
+                "token": "__RO_TEXT_2__",
+                "copy": "Conversion Optimization"
+              },
+              {
+                "_id": "06t0003",
+                "label": "Digital Marketing",
+                "token": "__RO_TEXT_3__",
+                "copy": "Digital Marketing"
+              },
+              {
+                "_id": "06t0004",
+                "label": "Put your brand in front of the right people at the right moment. We tu",
+                "token": "__RO_TEXT_4__",
+                "copy": "Put your brand in front of the right people at the right moment. We turn search demand into qualified traffic and guide every visitor toward becoming a customer."
+              },
+              {
+                "_id": "06t0005",
+                "label": "Bespoke Web Development",
+                "token": "__RO_TEXT_5__",
+                "copy": "Bespoke Web Development"
+              },
+              {
+                "_id": "06t0006",
+                "label": "E-Commerce Platforms",
+                "token": "__RO_TEXT_6__",
+                "copy": "E-Commerce Platforms"
+              },
+              {
+                "_id": "06t0007",
+                "label": "Speed Optimization",
+                "token": "__RO_TEXT_7__",
+                "copy": "Speed Optimization"
+              },
+              {
+                "_id": "06t0008",
+                "label": "Web Development",
+                "token": "__RO_TEXT_8__",
+                "copy": "Web Development"
+              },
+              {
+                "_id": "06t0009",
+                "label": "Give your customers a digital experience that feels effortless from th",
+                "token": "__RO_TEXT_9__",
+                "copy": "Give your customers a digital experience that feels effortless from the first click. Fast and intuitive websites make it easier for people to explore your offer and take the next step."
+              },
+              {
+                "_id": "06t000a",
+                "label": "Brand Identity",
+                "token": "__RO_TEXT_10__",
+                "copy": "Brand Identity"
+              },
+              {
+                "_id": "06t000b",
+                "label": "UI/UX Design",
+                "token": "__RO_TEXT_11__",
+                "copy": "UI/UX Design"
+              },
+              {
+                "_id": "06t000c",
+                "label": "Creative Direction",
+                "token": "__RO_TEXT_12__",
+                "copy": "Creative Direction"
+              },
+              {
+                "_id": "06t000d",
+                "label": "Design",
+                "token": "__RO_TEXT_13__",
+                "copy": "Design"
+              },
+              {
+                "_id": "06t000e",
+                "label": "Make your brand impossible to overlook and easy to remember. Every vis",
+                "token": "__RO_TEXT_14__",
+                "copy": "Make your brand impossible to overlook and easy to remember. Every visual detail works together to express your value and create a stronger connection with your audience."
+              },
+              {
+                "_id": "06t000f",
+                "label": "Video Production",
+                "token": "__RO_TEXT_15__",
+                "copy": "Video Production"
+              },
+              {
+                "_id": "06t0010",
+                "label": "Visual Campaigns",
+                "token": "__RO_TEXT_16__",
+                "copy": "Visual Campaigns"
+              },
+              {
+                "_id": "06t0011",
+                "label": "Audio and Multimedia",
+                "token": "__RO_TEXT_17__",
+                "copy": "Audio and Multimedia"
+              },
+              {
+                "_id": "06t0012",
+                "label": "Media Production",
+                "token": "__RO_TEXT_18__",
+                "copy": "Media Production"
+              },
+              {
+                "_id": "06t0013",
+                "label": "Bring your message to life through content people want to watch and sh",
+                "token": "__RO_TEXT_19__",
+                "copy": "Bring your message to life through content people want to watch and share. From powerful visuals to memorable sound, our production helps your brand earn attention and build trust."
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "06m0000",
+                "label": "Digital Marketing",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0041-Digital-Marketing-1-scaled-e1786488670631.webp"
+                }
+              },
+              {
+                "_id": "06m0001",
+                "label": "Web Development",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0042-3-scaled.webp"
+                }
+              },
+              {
+                "_id": "06m0002",
+                "label": "Design",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0043-design.png"
+                }
+              },
+              {
+                "_id": "06m0003",
+                "label": "Media Production",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0044-1-scaled.webp"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "06l0000",
+                "label": "Paid MediaContent SystemsConversion OptimizationDigital MarketingPut y",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "https://rankorbit.com/digital-marketing/"
+                }
+              },
+              {
+                "_id": "06l0001",
+                "label": "Bespoke Web DevelopmentE-Commerce PlatformsSpeed OptimizationWeb Devel",
+                "token": "__RO_LINK_1__",
+                "target": {
+                  "url": "https://rankorbit.com/web-development/"
+                }
+              },
+              {
+                "_id": "06l0002",
+                "label": "Brand IdentityUI/UX DesignCreative DirectionDesignMake your brand impo",
+                "token": "__RO_LINK_2__",
+                "target": {
+                  "url": "https://rankorbit.com/design/"
+                }
+              },
+              {
+                "_id": "06l0003",
+                "label": "Video ProductionVisual CampaignsAudio and MultimediaMedia ProductionBr",
+                "token": "__RO_LINK_3__",
+                "target": {
+                  "url": "https://rankorbit.com/media-production/"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

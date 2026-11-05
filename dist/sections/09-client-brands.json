@@ -1,0 +1,116 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Brands we have served",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000008",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Brands we have served",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000008",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-08",
+            "text_items": [
+              {
+                "_id": "08t0000",
+                "label": "Brands we\u2019ve served",
+                "token": "__RO_TEXT_0__",
+                "copy": "Brands we\u2019ve served"
+              },
+              {
+                "_id": "08t0001",
+                "label": "Brands That Choose a Better Way to Grow",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"two_elementor_element\">Brands That <span class=\"gradient-text\">Choose</span> a </span><br class=\"two_elementor_element\"><span class=\"two_elementor_element\">Better Way to <span class=\"gradient-text\">Grow</span></span>"
+              },
+              {
+                "_id": "08t0002",
+                "label": "WeBookGuide trusted us to refine its brand identity and digital presen",
+                "token": "__RO_TEXT_2__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">WeBookGuide trusted us to refine its brand identity and digital presence, creating a clearer experience for users seeking practical travel guidance online worldwide.</span>"
+              },
+              {
+                "_id": "08t0003",
+                "label": "Quatta partnered with our team to strengthen its visual identity and d",
+                "token": "__RO_TEXT_3__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Quatta partnered with our team to strengthen its visual identity and digital communication, helping the brand present a polished and consistent customer experience.</span>"
+              },
+              {
+                "_id": "08t0004",
+                "label": "Audiolux worked with us to create an engaging online presence combinin",
+                "token": "__RO_TEXT_4__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Audiolux worked with us to create an engaging online presence combining thoughtful design and marketing support to connect naturally with its growing audience.</span>"
+              },
+              {
+                "_id": "08t0005",
+                "label": "Rockstar Painting trusted our team to elevate its brand image with pol",
+                "token": "__RO_TEXT_5__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Rockstar Painting trusted our team to elevate its brand image with polished design and clearer online messaging for stronger local customer connections overall.</span>"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "08m0000",
+                "label": "we book guides",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0049-we-book-guides-scaled-rs5mqcdgtxirrzuzpw53k6nd6uizdm33b1sraplyrg.png"
+                }
+              },
+              {
+                "_id": "08m0001",
+                "label": "Quatta",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0050-Quatta-e1787174737584-rs5jwtsyq2jxw3bgi0fm9sv7kqvw2f2pclcxew4mrg.png"
+                }
+              },
+              {
+                "_id": "08m0002",
+                "label": "Automotive website design screenshot",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0051-image__44_-removebg-preview-rtsbkm1svf193owlxc1ecchei94pv07utoawanz8gw.png"
+                }
+              },
+              {
+                "_id": "08m0003",
+                "label": "Rockstar Painting",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0052-Rockstar-Painting-e1787174819461-rs5jyztkhbiqnq64ug5nir6gvq7ctaofbbi88uwyf0.png"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,16 @@ Rebuilt from the homepage HTML and assets uploaded on November 5, 2026. This rep
 
 The ZIP is about 32 MB because it bundles the captured videos and fonts. If your hosting upload limit is smaller, extract `rankorbit-elementor/` into `wp-content/plugins/` using your host's file manager, then activate it.
 
+## Individual section JSON imports
+
+Download **`dist/rankorbit-sections.zip`** and extract it. It contains 18 separate Elementor JSON templates, numbered in homepage order. You can also download individual files from **`dist/sections/`**.
+
+Activate Elementor and the companion plugin first, then import the section JSON you want through **Templates → Saved Templates → Import Templates**. Open your page in Elementor and insert it from the library's **My Templates** tab. Repeat for other sections. Import each JSON separately; the ZIP is a download bundle, not an Elementor website kit.
+
+Each JSON has `type: section`, contains one named section container, and leaves page settings unchanged. Content, local assets, and animation selectors are preserved. The 18 files include body sections plus the header, footer, and floating utility controls. See **`dist/sections/README.md`** for the file list and section-specific notes.
+
+These section imports still require the companion plugin: a JSON file alone cannot supply its custom widgets and motion runtime. Keep each original block only once per page to avoid duplicate animation IDs.
+
 ## Standard Elementor JSON import — alternative
 
 Activate the companion plugin **first**. Go to **Templates → Saved Templates → Import Templates** and import **`dist/rankorbit-homepage-elementor.json`**. Create a page, choose Elementor Canvas, open **Edit with Elementor**, insert the template from **My Templates**, and save it.
@@ -63,7 +73,9 @@ PHP 8.3 syntax checks pass. The renderer was exercised for all 18 blocks with **
 
 - `rankorbit-elementor/`: plugin source, section fragments, captured local assets, and motion.
 - `dist/rankorbit-elementor-plugin.zip`: WordPress plugin upload.
-- `dist/rankorbit-homepage-elementor.json`: optional Elementor import.
+- `dist/rankorbit-homepage-elementor.json`: optional full-homepage Elementor import.
+- `dist/rankorbit-sections.zip`: 18 individual section JSON files and import instructions.
+- `dist/sections/`: individual section downloads.
 - `dist/rankorbit-preview.html`: local browser preview; serve `dist/` over HTTP.
 - `dist/rankorbit-desktop-hero.png` and `dist/rankorbit-mobile-hero.png`: preview images.
 - `dist/reference-inventory.json`: editable-block counts and capture limitations.

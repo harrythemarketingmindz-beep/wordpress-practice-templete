@@ -1,0 +1,437 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Google reviews",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b00000a",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Google reviews",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000a",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-10",
+            "text_items": [
+              {
+                "_id": "0at0000",
+                "label": "Rank Orbit LLC",
+                "token": "__RO_TEXT_0__",
+                "copy": " Rank Orbit LLC"
+              },
+              {
+                "_id": "0at0001",
+                "label": "Write a review",
+                "token": "__RO_TEXT_1__",
+                "copy": "Write a review"
+              },
+              {
+                "_id": "0at0002",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_2__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0003",
+                "label": "Savi",
+                "token": "__RO_TEXT_3__",
+                "copy": " Savi "
+              },
+              {
+                "_id": "0at0004",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_4__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0005",
+                "label": "Will Goldberg and Rank Orbit LLC helped us a lot with our Online prese",
+                "token": "__RO_TEXT_5__",
+                "copy": "<!-- R-CONTENT -->Will Goldberg and Rank Orbit LLC helped us a lot with our Online presence, I'll recommend them!<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at0006",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_6__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0007",
+                "label": "Chijioke Egbujo",
+                "token": "__RO_TEXT_7__",
+                "copy": " Chijioke Egbujo "
+              },
+              {
+                "_id": "0at0008",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_8__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0009",
+                "label": "Kevin Brown was really helpful and knowledgeable. He knew just what I ",
+                "token": "__RO_TEXT_9__",
+                "copy": "<!-- R-CONTENT -->Kevin Brown was really helpful and knowledgeable. He knew just what I needed and helped design a great website for me. Thank you!!<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at000a",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_10__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at000b",
+                "label": "Rockstarpainting1",
+                "token": "__RO_TEXT_11__",
+                "copy": " Rockstarpainting1 "
+              },
+              {
+                "_id": "0at000c",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_12__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at000d",
+                "label": "Highly recommend this company. Working with them for over 4 years now ",
+                "token": "__RO_TEXT_13__",
+                "copy": "<!-- R-CONTENT -->Highly recommend this company. Working with them for over 4 years now and everyday is an improvement. Jason and Rank Orbit deserves 5 stars.<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at000e",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_14__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at000f",
+                "label": "Nestor Rodriguez",
+                "token": "__RO_TEXT_15__",
+                "copy": " Nestor Rodriguez "
+              },
+              {
+                "_id": "0at0010",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_16__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0011",
+                "label": "The customer service here is incredible. Always prepared to answer any",
+                "token": "__RO_TEXT_17__",
+                "copy": "<!-- R-CONTENT -->The customer service here is incredible. Always prepared to answer any questions. Great results too<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at0012",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_18__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0013",
+                "label": "Cynthia Franklin",
+                "token": "__RO_TEXT_19__",
+                "copy": " Cynthia Franklin "
+              },
+              {
+                "_id": "0at0014",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_20__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0015",
+                "label": "I really enjoyed working with Jason. I was a little skeptical at first",
+                "token": "__RO_TEXT_21__",
+                "copy": "<!-- R-CONTENT -->I really enjoyed working with Jason. I was a little skeptical at first but all the work he put into the website and other work with my social media and other sites is amazing.<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at0016",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_22__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0017",
+                "label": "Arian Mazumder",
+                "token": "__RO_TEXT_23__",
+                "copy": " Arian Mazumder "
+              },
+              {
+                "_id": "0at0018",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_24__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0019",
+                "label": "Had a great experience with Rank Orbit. They made me a beautiful websi",
+                "token": "__RO_TEXT_25__",
+                "copy": "<!-- R-CONTENT -->Had a great experience with Rank Orbit. They made me a beautiful website for my business. Jason was very easy to talk to and friendly and explain the process thoroughly. They were also very quick. I highly recommend Rank Orbit to anybody looking to create a website for their business!<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at001a",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_26__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at001b",
+                "label": "brad dunevitz",
+                "token": "__RO_TEXT_27__",
+                "copy": " brad dunevitz "
+              },
+              {
+                "_id": "0at001c",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_28__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at001d",
+                "label": "After working with and quickly dismissing two marketing agencies, I ha",
+                "token": "__RO_TEXT_29__",
+                "copy": "<!-- R-CONTENT -->After working with and quickly dismissing two marketing agencies, I happily found Rank Orbit. Before hiring them, I asked Jason multiple questions, all of which he answered promptly and professionally. And he did not overpromise, which I had discovered, prior to finding Rank Orbit, was a common habit among some marketing agencies. That promptness and professionalism has continued throughout our work together. Thank you, Jason!<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at001e",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_30__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at001f",
+                "label": "Brook Gardner (The Mooo-ving Realtor)",
+                "token": "__RO_TEXT_31__",
+                "copy": " Brook Gardner (The Mooo-ving Realtor) "
+              },
+              {
+                "_id": "0at0020",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_32__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0021",
+                "label": "Jason was very helpful in calming me down after a competitor called sa",
+                "token": "__RO_TEXT_33__",
+                "copy": "<!-- R-CONTENT -->Jason was very helpful in calming me down after a competitor called saying I had not posted on 2 years, and I knew rank orbit had posted for me. he took me to the report and web site and showed me where they had posted for me... Thank you Jason<!-- R-CONTENT -->"
+              },
+              {
+                "_id": "0at0022",
+                "label": "Posted on Google",
+                "token": "__RO_TEXT_34__",
+                "copy": "Posted on Google"
+              },
+              {
+                "_id": "0at0023",
+                "label": "Dylan Serna",
+                "token": "__RO_TEXT_35__",
+                "copy": " Dylan Serna "
+              },
+              {
+                "_id": "0at0024",
+                "label": "Trustindex verifies that the original source of the review is Google.",
+                "token": "__RO_TEXT_36__",
+                "copy": "Trustindex verifies that the original source of the review is Google."
+              },
+              {
+                "_id": "0at0025",
+                "label": "Rank Orbit really helped out on my SEO significantly after the first 3",
+                "token": "__RO_TEXT_37__",
+                "copy": "<!-- R-CONTENT -->Rank Orbit really helped out on my SEO significantly after the first 30 days of working with them. They sent me a report with my rankings after our first 30 days and already got me from 6th to 2nd place in SEO keywords. They are prompt at communicating as well<!-- R-CONTENT -->"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "0am0000",
+                "label": "Rank Orbit LLC",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0058-photo.jpg"
+                }
+              },
+              {
+                "_id": "0am0001",
+                "label": "Google",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0002",
+                "label": "Savi profile picture",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0060-ACg8ocJdJTfwTN261fElTxG2cIOffqNw5sYm18YMoqxwghESPHMo0A_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am0003",
+                "label": "Google",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0004",
+                "label": "Chijioke Egbujo profile picture",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0061-ACg8ocK0xvg_5J_JoUtSNYIgmatdKItODzhbm5mZM7CiJnP0JfSTxQ_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am0005",
+                "label": "Google",
+                "token": "__RO_MEDIA_5__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0006",
+                "label": "Rockstarpainting1 profile picture",
+                "token": "__RO_MEDIA_6__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0062-ALV-UjUd7rZeWWMcvV8jm-B5x0LTnzoRvBo_dd33H8sbKwCURM3IOiw_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am0007",
+                "label": "Google",
+                "token": "__RO_MEDIA_7__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0008",
+                "label": "Nestor Rodriguez profile picture",
+                "token": "__RO_MEDIA_8__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0063-ALV-UjWjkK49kvg-b8feLT1e-kvHunVNMQ9rry_ZGVe5zyVarfs-cxk_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am0009",
+                "label": "Google",
+                "token": "__RO_MEDIA_9__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am000a",
+                "label": "Cynthia Franklin profile picture",
+                "token": "__RO_MEDIA_10__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0064-ALV-UjUhNNwjHje2f375xxuLx-ZcEwGZVd9KIgaLtsmRHi1B3BL9v3M_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am000b",
+                "label": "Google",
+                "token": "__RO_MEDIA_11__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am000c",
+                "label": "Arian Mazumder profile picture",
+                "token": "__RO_MEDIA_12__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0065-ACg8ocIvdLFQGHp7CQgLQggM0J1XQCPiS4GFD99mAvrOz0Z1t0mUIsw_w40-h40-c-rp-mo-ba12-br100"
+                }
+              },
+              {
+                "_id": "0am000d",
+                "label": "Google",
+                "token": "__RO_MEDIA_13__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am000e",
+                "label": "brad dunevitz profile picture",
+                "token": "__RO_MEDIA_14__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0066-ALV-UjVfvfRvD_QTxND1cWAoczx5cGIM15Lnn4Xm9X-ud5D2sh4vqF02_w40-h40-c-rp-mo-br100"
+                }
+              },
+              {
+                "_id": "0am000f",
+                "label": "Google",
+                "token": "__RO_MEDIA_15__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0010",
+                "label": "Brook Gardner (The Mooo-ving Realtor) profile picture",
+                "token": "__RO_MEDIA_16__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0067-ALV-UjV29ciEvkp0wFOXMwYDrY_6lT4jkkTMga0JnV3NhBvfR8mNW2tqFA_w40-h40-c-rp-mo-ba12-br100"
+                }
+              },
+              {
+                "_id": "0am0011",
+                "label": "Google",
+                "token": "__RO_MEDIA_17__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0059-icon.svg"
+                }
+              },
+              {
+                "_id": "0am0012",
+                "label": "Dylan Serna profile picture",
+                "token": "__RO_MEDIA_18__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0068-ACg8ocKFzgRS66VZ4NDPkTqxUuBkh2LfqMeWBCLX-ZZFkf7G2kP0Hw_w40-h40-c-rp-mo-br100"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "0al0000",
+                "label": "Write a review",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "https://admin.trustindex.io/api/googleWriteReview?place-id=ChIJ-dCv5Qnlv60R8Z7CBJEai20"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

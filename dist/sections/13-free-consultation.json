@@ -1,0 +1,206 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Free consultation",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b00000c",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Free consultation",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000c",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-12",
+            "text_items": [
+              {
+                "_id": "0ct0000",
+                "label": "Free Consultation",
+                "token": "__RO_TEXT_0__",
+                "copy": "Free Consultation"
+              },
+              {
+                "_id": "0ct0001",
+                "label": "Discover What Could Move Your Business Forward",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"two_elementor_element\"><span class=\"gradient-text\">Discover</span> What Could</span><br class=\"two_elementor_element\"><span class=\"two_elementor_element\"> Move Your Business <span class=\"gradient-text\">Forward</span></span>"
+              },
+              {
+                "_id": "0ct0002",
+                "label": "Every successful project starts with understanding. We hear your conce",
+                "token": "__RO_TEXT_2__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Every successful project starts with understanding. We hear your concerns, uncover opportunities, and recommend a marketing path.</span>"
+              },
+              {
+                "_id": "0ct0003",
+                "label": "Call us at: (559) 900-2336",
+                "token": "__RO_TEXT_3__",
+                "copy": "<strong class=\"two_elementor_element\">Call us at: <a href=\"__RO_LINK_0__\" class=\"two_elementor_element\"><span data-teams=\"true\" class=\"two_elementor_element\">(559) 900-2336</span></a></strong>"
+              },
+              {
+                "_id": "0ct0004",
+                "label": "What We Bring to You:",
+                "token": "__RO_TEXT_4__",
+                "copy": "What We Bring to You:"
+              },
+              {
+                "_id": "0ct0005",
+                "label": "Clear Insight",
+                "token": "__RO_TEXT_5__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Clear Insight</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct0006",
+                "label": "Goal Review",
+                "token": "__RO_TEXT_6__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Goal Review</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct0007",
+                "label": "Marketing Advice",
+                "token": "__RO_TEXT_7__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Marketing Advice</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct0008",
+                "label": "Option Clarity",
+                "token": "__RO_TEXT_8__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Option Clarity</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct0009",
+                "label": "Tailored Solutions",
+                "token": "__RO_TEXT_9__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Tailored Solutions</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct000a",
+                "label": "Growth Direction",
+                "token": "__RO_TEXT_10__",
+                "copy": "\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check-circle\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Growth Direction</span>\n\t\t\t\t\t\t\t\t\t"
+              },
+              {
+                "_id": "0ct000b",
+                "label": "What happens next?",
+                "token": "__RO_TEXT_11__",
+                "copy": "What happens next?"
+              },
+              {
+                "_id": "0ct000c",
+                "label": "1",
+                "token": "__RO_TEXT_12__",
+                "copy": "1"
+              },
+              {
+                "_id": "0ct000d",
+                "label": "We Learn About Your Business",
+                "token": "__RO_TEXT_13__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We Learn About Your Business</span>"
+              },
+              {
+                "_id": "0ct000e",
+                "label": "2",
+                "token": "__RO_TEXT_14__",
+                "copy": "2"
+              },
+              {
+                "_id": "0ct000f",
+                "label": "We Explore The Right Solutions",
+                "token": "__RO_TEXT_15__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We Explore The Right Solutions</span>"
+              },
+              {
+                "_id": "0ct0010",
+                "label": "3",
+                "token": "__RO_TEXT_16__",
+                "copy": "3"
+              },
+              {
+                "_id": "0ct0011",
+                "label": "We Outline Your Next Steps",
+                "token": "__RO_TEXT_17__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We Outline Your Next Steps</span>"
+              },
+              {
+                "_id": "0ct0012",
+                "label": "Schedule a Free Consultation",
+                "token": "__RO_TEXT_18__",
+                "copy": "Schedule a Free Consultation"
+              },
+              {
+                "_id": "0ct0013",
+                "label": "First Name *",
+                "token": "__RO_TEXT_19__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nFirst Name *<br class=\"two_elementor_element\">\n</label>\n\t\t"
+              },
+              {
+                "_id": "0ct0014",
+                "label": "Phone Number *",
+                "token": "__RO_TEXT_20__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nPhone Number *<br class=\"two_elementor_element\">\n</label>\n\t\t\t"
+              },
+              {
+                "_id": "0ct0015",
+                "label": "Email Address *",
+                "token": "__RO_TEXT_21__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nEmail Address *<br class=\"two_elementor_element\">\n</label>\n\t\t\t"
+              },
+              {
+                "_id": "0ct0016",
+                "label": "Company / Organization",
+                "token": "__RO_TEXT_22__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nCompany / Organization<br class=\"two_elementor_element\">\n</label>\n\t\t"
+              },
+              {
+                "_id": "0ct0017",
+                "label": "How Can We Help You? *",
+                "token": "__RO_TEXT_23__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nHow Can We Help You? *<br class=\"two_elementor_element\">\n</label>\n\t\t"
+              },
+              {
+                "_id": "0ct0018",
+                "label": "Message *",
+                "token": "__RO_TEXT_24__",
+                "copy": "<label class=\"RO1-cf7-label\"><br class=\"two_elementor_element\">\nMessage *<br class=\"two_elementor_element\">\n</label>\n\t\t"
+              }
+            ],
+            "media_items": [],
+            "link_items": [
+              {
+                "_id": "0cl0000",
+                "label": "(559) 900-2336",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "tel:(559) 900-2336"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

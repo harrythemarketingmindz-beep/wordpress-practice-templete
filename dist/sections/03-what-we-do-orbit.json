@@ -1,0 +1,325 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 What we do \u2014 scroll-driven orbit",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000002",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "What we do \u2014 scroll-driven orbit",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000002",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-02",
+            "text_items": [
+              {
+                "_id": "02t0000",
+                "label": "What We Do",
+                "token": "__RO_TEXT_0__",
+                "copy": "What We Do"
+              },
+              {
+                "_id": "02t0001",
+                "label": "Everything Your BrandNeeds, InOne Orbit",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"ali-heading-line\">Everything Your Brand</span><span class=\"ali-heading-line\">Needs, In</span><span class=\"ali-heading-line\"><span class=\"ali-heading-gradient\">One Orbit</span></span>"
+              },
+              {
+                "_id": "02t0002",
+                "label": "We build websites, grow brands, and automate systems to help businesse",
+                "token": "__RO_TEXT_2__",
+                "copy": "We build websites, grow brands, and automate \u00a0systems to help businesses scale smarter."
+              },
+              {
+                "_id": "02t0003",
+                "label": "View All Services",
+                "token": "__RO_TEXT_3__",
+                "copy": "View All Services"
+              },
+              {
+                "_id": "02t0004",
+                "label": "\u2197",
+                "token": "__RO_TEXT_4__",
+                "copy": "\u2197"
+              },
+              {
+                "_id": "02t0005",
+                "label": "01",
+                "token": "__RO_TEXT_5__",
+                "copy": "\n\n                                    01\n                                "
+              },
+              {
+                "_id": "02t0006",
+                "label": "Digital Products",
+                "token": "__RO_TEXT_6__",
+                "copy": "\n\n                                        Digital Products\n                                    "
+              },
+              {
+                "_id": "02t0007",
+                "label": "Build",
+                "token": "__RO_TEXT_7__",
+                "copy": "\n\n                                        Build\n                                    "
+              },
+              {
+                "_id": "02t0008",
+                "label": "Create fast, reliable digital experiences that make every interaction ",
+                "token": "__RO_TEXT_8__",
+                "copy": "\n\n                                        Create fast, reliable digital experiences that make every interaction effortless.\n                                    "
+              },
+              {
+                "_id": "02t0009",
+                "label": "Website Development",
+                "token": "__RO_TEXT_9__",
+                "copy": "\n\n                                                Website Development\n                                            "
+              },
+              {
+                "_id": "02t000a",
+                "label": "Platform Architecture",
+                "token": "__RO_TEXT_10__",
+                "copy": "\n\n                                                Platform Architecture\n                                            "
+              },
+              {
+                "_id": "02t000b",
+                "label": "Technical performance",
+                "token": "__RO_TEXT_11__",
+                "copy": "\n\n                                                Technical performance\n                                            "
+              },
+              {
+                "_id": "02t000c",
+                "label": "Scalable Systems",
+                "token": "__RO_TEXT_12__",
+                "copy": "\n\n                                                Scalable Systems\n                                            "
+              },
+              {
+                "_id": "02t000d",
+                "label": "02",
+                "token": "__RO_TEXT_13__",
+                "copy": "\n\n                                    02\n                                "
+              },
+              {
+                "_id": "02t000e",
+                "label": "Digital Growth",
+                "token": "__RO_TEXT_14__",
+                "copy": "\n\n                                        Digital Growth\n                                    "
+              },
+              {
+                "_id": "02t000f",
+                "label": "Grow",
+                "token": "__RO_TEXT_15__",
+                "copy": "\n\n                                        Grow\n                                    "
+              },
+              {
+                "_id": "02t0010",
+                "label": "Turn customer demand into revenue through smarter digital growth strat",
+                "token": "__RO_TEXT_16__",
+                "copy": "\n\n                                        Turn customer demand into revenue through smarter digital growth strategies.\n                                    "
+              },
+              {
+                "_id": "02t0011",
+                "label": "Search Strategy",
+                "token": "__RO_TEXT_17__",
+                "copy": "\n\n                                                Search Strategy\n                                            "
+              },
+              {
+                "_id": "02t0012",
+                "label": "Paid Acquisition",
+                "token": "__RO_TEXT_18__",
+                "copy": "\n\n                                                Paid Acquisition\n                                            "
+              },
+              {
+                "_id": "02t0013",
+                "label": "Funnel Optimization",
+                "token": "__RO_TEXT_19__",
+                "copy": "\n\n                                                Funnel Optimization\n                                            "
+              },
+              {
+                "_id": "02t0014",
+                "label": "Revenue Tracking",
+                "token": "__RO_TEXT_20__",
+                "copy": "\n\n                                                Revenue Tracking\n                                            "
+              },
+              {
+                "_id": "02t0015",
+                "label": "03",
+                "token": "__RO_TEXT_21__",
+                "copy": "\n\n                                    03\n                                "
+              },
+              {
+                "_id": "02t0016",
+                "label": "Brand Experience",
+                "token": "__RO_TEXT_22__",
+                "copy": "\n\n                                        Brand Experience\n                                    "
+              },
+              {
+                "_id": "02t0017",
+                "label": "Brand",
+                "token": "__RO_TEXT_23__",
+                "copy": "\n\n                                        Brand\n                                    "
+              },
+              {
+                "_id": "02t0018",
+                "label": "Shape a memorable identity that earns trust and influences decisions.",
+                "token": "__RO_TEXT_24__",
+                "copy": "\n\n                                        Shape a memorable identity that earns trust and influences decisions.\n                                    "
+              },
+              {
+                "_id": "02t0019",
+                "label": "Brand Strategy",
+                "token": "__RO_TEXT_25__",
+                "copy": "\n\n                                                Brand Strategy\n                                            "
+              },
+              {
+                "_id": "02t001a",
+                "label": "Visual Identity",
+                "token": "__RO_TEXT_26__",
+                "copy": "\n\n                                                Visual Identity\n                                            "
+              },
+              {
+                "_id": "02t001b",
+                "label": "Messaging Framework",
+                "token": "__RO_TEXT_27__",
+                "copy": "\n\n                                                Messaging Framework\n                                            "
+              },
+              {
+                "_id": "02t001c",
+                "label": "Content Systems",
+                "token": "__RO_TEXT_28__",
+                "copy": "\n\n                                                Content Systems\n                                            "
+              },
+              {
+                "_id": "02t001d",
+                "label": "04",
+                "token": "__RO_TEXT_29__",
+                "copy": "\n\n                                    04\n                                "
+              },
+              {
+                "_id": "02t001e",
+                "label": "Intelligent Systems",
+                "token": "__RO_TEXT_30__",
+                "copy": "\n\n                                        Intelligent Systems\n                                    "
+              },
+              {
+                "_id": "02t001f",
+                "label": "Automate",
+                "token": "__RO_TEXT_31__",
+                "copy": "\n\n                                        Automate\n                                    "
+              },
+              {
+                "_id": "02t0020",
+                "label": "Connect AI and automation to simplify operations and improve performan",
+                "token": "__RO_TEXT_32__",
+                "copy": "\n\n                                        Connect AI and automation to simplify operations and improve performance.\n                                    "
+              },
+              {
+                "_id": "02t0021",
+                "label": "AI Workflows",
+                "token": "__RO_TEXT_33__",
+                "copy": "\n\n                                                AI Workflows\n                                            "
+              },
+              {
+                "_id": "02t0022",
+                "label": "Process Automation",
+                "token": "__RO_TEXT_34__",
+                "copy": "\n\n                                                Process Automation\n                                            "
+              },
+              {
+                "_id": "02t0023",
+                "label": "Data Integration",
+                "token": "__RO_TEXT_35__",
+                "copy": "\n\n                                                Data Integration\n                                            "
+              },
+              {
+                "_id": "02t0024",
+                "label": "Smart Operations",
+                "token": "__RO_TEXT_36__",
+                "copy": "\n\n                                                Smart Operations\n                                            "
+              },
+              {
+                "_id": "02t0025",
+                "label": "Scroll to explore",
+                "token": "__RO_TEXT_37__",
+                "copy": "\n\n                        Scroll to explore\n\n                    "
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "02m0000",
+                "label": "Rank Orbit",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0015-middle-image.png"
+                }
+              },
+              {
+                "_id": "02m0001",
+                "label": "Build",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0016-build-image.png"
+                }
+              },
+              {
+                "_id": "02m0002",
+                "label": "Grow",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0017-grow-image.png"
+                }
+              },
+              {
+                "_id": "02m0003",
+                "label": "Brand",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0018-brand-image.png"
+                }
+              },
+              {
+                "_id": "02m0004",
+                "label": "Automate",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0019-automate-image.png"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "02l0000",
+                "label": "View All Services\u2197",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "https://rankorbit.com/services/"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

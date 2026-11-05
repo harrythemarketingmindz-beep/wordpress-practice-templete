@@ -1,0 +1,183 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Technology logo carousel",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000003",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Technology logo carousel",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000003",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-03",
+            "text_items": [],
+            "media_items": [
+              {
+                "_id": "03m0000",
+                "label": "NVIDIA logo",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0027-12.png"
+                }
+              },
+              {
+                "_id": "03m0001",
+                "label": "Squarespace logo",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0028-10.png"
+                }
+              },
+              {
+                "_id": "03m0002",
+                "label": "Salesforce logo",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0029-14.png"
+                }
+              },
+              {
+                "_id": "03m0003",
+                "label": "Google Ads advertising platform logo",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0030-8.png"
+                }
+              },
+              {
+                "_id": "03m0004",
+                "label": "WordPress logo",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0031-13.png"
+                }
+              },
+              {
+                "_id": "03m0005",
+                "label": "WooCommerce e-commerce platform logo",
+                "token": "__RO_MEDIA_5__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0032-5.png"
+                }
+              },
+              {
+                "_id": "03m0006",
+                "label": "Google Search Console logo",
+                "token": "__RO_MEDIA_6__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0033-15.png"
+                }
+              },
+              {
+                "_id": "03m0007",
+                "label": "Webflow logo",
+                "token": "__RO_MEDIA_7__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0034-11.png"
+                }
+              },
+              {
+                "_id": "03m0008",
+                "label": "Ahrefs logo",
+                "token": "__RO_MEDIA_8__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0035-16.png"
+                }
+              },
+              {
+                "_id": "03m0009",
+                "label": "WordPress logo",
+                "token": "__RO_MEDIA_9__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0036-wordpress-logo-wordpress-icon-transparent-free-png-1.png"
+                }
+              },
+              {
+                "_id": "03m000a",
+                "label": "Semrush logo",
+                "token": "__RO_MEDIA_10__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0020-17.png"
+                }
+              },
+              {
+                "_id": "03m000b",
+                "label": "GoDaddy logo",
+                "token": "__RO_MEDIA_11__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0021-9.png"
+                }
+              },
+              {
+                "_id": "03m000c",
+                "label": "Meta company logo",
+                "token": "__RO_MEDIA_12__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0022-7.png"
+                }
+              },
+              {
+                "_id": "03m000d",
+                "label": "Shopify e-commerce platform logo",
+                "token": "__RO_MEDIA_13__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0023-6.png"
+                }
+              },
+              {
+                "_id": "03m000e",
+                "label": "HighLevel marketing platform logo",
+                "token": "__RO_MEDIA_14__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0024-4-1.png"
+                }
+              },
+              {
+                "_id": "03m000f",
+                "label": "Microsoft brand logo",
+                "token": "__RO_MEDIA_15__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0025-3-9.png"
+                }
+              },
+              {
+                "_id": "03m0010",
+                "label": "TikTok social media platform logo",
+                "token": "__RO_MEDIA_16__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0026-2-10.png"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

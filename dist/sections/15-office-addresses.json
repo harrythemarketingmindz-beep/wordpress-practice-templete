@@ -1,0 +1,71 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Office addresses",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b00000e",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Office addresses",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000e",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "footer-2",
+            "text_items": [
+              {
+                "_id": "0et0000",
+                "label": "Head Office (USA)",
+                "token": "__RO_TEXT_0__",
+                "copy": "Head Office (USA)\n"
+              },
+              {
+                "_id": "0et0001",
+                "label": "1187 N Willow Ave Clovis, CA 93611",
+                "token": "__RO_TEXT_1__",
+                "copy": "1187 N Willow Ave Clovis, CA 93611"
+              },
+              {
+                "_id": "0et0002",
+                "label": "UAE Address",
+                "token": "__RO_TEXT_2__",
+                "copy": "UAE Address\n"
+              },
+              {
+                "_id": "0et0003",
+                "label": "The One Tower, Sheikh Zayed Rd, Al Thanyah First, Barsha Heights, Duba",
+                "token": "__RO_TEXT_3__",
+                "copy": "The One Tower, Sheikh Zayed Rd, Al Thanyah First, Barsha Heights, Dubai, United Arab Emirates"
+              }
+            ],
+            "media_items": [],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

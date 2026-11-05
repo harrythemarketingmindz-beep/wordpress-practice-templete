@@ -1,0 +1,116 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Why choose us",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000004",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Why choose us",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000004",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-04",
+            "text_items": [
+              {
+                "_id": "04t0000",
+                "label": "Why choose us",
+                "token": "__RO_TEXT_0__",
+                "copy": "Why choose us"
+              },
+              {
+                "_id": "04t0001",
+                "label": "A Digital Partner Built For Outcomes",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"two_elementor_element\">A <span class=\"gradient-text\">Digital Partner</span></span><br class=\"two_elementor_element\"> Built For Outcomes"
+              },
+              {
+                "_id": "04t0002",
+                "label": "Start with clear goals so every investment drives meaningful business ",
+                "token": "__RO_TEXT_2__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Start with clear goals so every investment drives meaningful business growth.</span>"
+              },
+              {
+                "_id": "04t0003",
+                "label": "Clear insights show what works and guide smarter decisions for growth.",
+                "token": "__RO_TEXT_3__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Clear insights show what works and guide smarter decisions for growth.</span>"
+              },
+              {
+                "_id": "04t0004",
+                "label": "SEO, paid media, content, and branding work together to reach customer",
+                "token": "__RO_TEXT_4__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">SEO, paid media, content, and branding work together to reach customers.</span>"
+              },
+              {
+                "_id": "04t0005",
+                "label": "Turn brand visibility into customer interest and measurable growth ove",
+                "token": "__RO_TEXT_5__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Turn brand visibility into customer interest and measurable growth over time.</span>"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "04m0000",
+                "label": "285bd9d052643700fd0786b4ff146a3a5a73f04d",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0037-285bd9d052643700fd0786b4ff146a3a5a73f04d-rr6td83fj642akjcsncbs1w2fkmgl9khzlfl2psn1c.png"
+                }
+              },
+              {
+                "_id": "04m0001",
+                "label": "79101fa0d7dd89c3162d6b3befce838db8dd2222",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0038-79101fa0d7dd89c3162d6b3befce838db8dd2222-rr6td4c2rtyuygydyzuknd980naklvygdq9uybapto.png"
+                }
+              },
+              {
+                "_id": "04m0002",
+                "label": "d18a2e41144e021385aa2c1218b401599755ab97",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0039-d18a2e41144e021385aa2c1218b401599755ab97-rr6td1ik7bv21aswv2hxslju9viw3dudmov6ps2e8w.png"
+                }
+              },
+              {
+                "_id": "04m0003",
+                "label": "12fb7e44d6184b25e97c7c28182013fb545d01d0",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0040-12fb7e44d6184b25e97c7c28182013fb545d01d0-rr6tcxr7fzpup77y1f06nwwzuy70408c0tpgldkh18.png"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Services introduction",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000005",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Services introduction",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000005",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-05",
+            "text_items": [
+              {
+                "_id": "05t0000",
+                "label": "What Moves Your Brand Forward",
+                "token": "__RO_TEXT_0__",
+                "copy": "What Moves Your Brand Forward"
+              },
+              {
+                "_id": "05t0001",
+                "label": "Everything That Puts YourBusiness First",
+                "token": "__RO_TEXT_1__",
+                "copy": "Everything That Puts Your<br class=\"two_elementor_element\"><span class=\"two_elementor_element\"><span class=\"gradient-text\">Business First</span></span>"
+              }
+            ],
+            "media_items": [],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Frequently asked questions",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b00000b",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Frequently asked questions",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000b",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-11",
+            "text_items": [
+              {
+                "_id": "0bt0000",
+                "label": "FAQs",
+                "token": "__RO_TEXT_0__",
+                "copy": "FAQs"
+              },
+              {
+                "_id": "0bt0001",
+                "label": "Questions Before You Grow",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span class=\"two_elementor_element\">Questions Before You <span class=\"gradient-text\">Grow</span></span>"
+              },
+              {
+                "_id": "0bt0002",
+                "label": "What can a digital growth partner do for my business?",
+                "token": "__RO_TEXT_2__",
+                "copy": " What can a digital growth partner do for my business? "
+              },
+              {
+                "_id": "0bt0003",
+                "label": "We help you attract the right buyers and turn attention into action, u",
+                "token": "__RO_TEXT_3__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We help you attract the right buyers and turn attention into action, using search, paid media, content, brand, development, and automation working as one plan.</span>"
+              },
+              {
+                "_id": "0bt0004",
+                "label": "Which services do you provide?",
+                "token": "__RO_TEXT_4__",
+                "copy": " Which services do you provide? "
+              },
+              {
+                "_id": "0bt0005",
+                "label": "We cover search strategy, paid advertising, content, website developme",
+                "token": "__RO_TEXT_5__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We cover search strategy, paid advertising, content, website development, e-commerce, brand identity, and AI-driven automation. We can support a single need or build a connected system.</span>"
+              },
+              {
+                "_id": "0bt0006",
+                "label": "Do you offer web development and app design?",
+                "token": "__RO_TEXT_6__",
+                "copy": " Do you offer web development and app design? "
+              },
+              {
+                "_id": "0bt0007",
+                "label": "Yes. We design and build websites, web applications, and mobile experi",
+                "token": "__RO_TEXT_7__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We design and build websites, web applications, and mobile experiences with UI/UX focused on turning visits into action, not just good looks.</span>"
+              },
+              {
+                "_id": "0bt0008",
+                "label": "Can you help with branding and creative direction?",
+                "token": "__RO_TEXT_8__",
+                "copy": " Can you help with branding and creative direction? "
+              },
+              {
+                "_id": "0bt0009",
+                "label": "Yes. We shape brand identity, positioning, and creative direction so e",
+                "token": "__RO_TEXT_9__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We shape brand identity, positioning, and creative direction so every touchpoint feels consistent and builds trust with your audience.</span>"
+              },
+              {
+                "_id": "0bt000a",
+                "label": "What does AI and automation support look like?",
+                "token": "__RO_TEXT_10__",
+                "copy": " What does AI and automation support look like? "
+              },
+              {
+                "_id": "0bt000b",
+                "label": "We build workflow systems and business process automation that reduce ",
+                "token": "__RO_TEXT_11__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We build workflow systems and business process automation that reduce manual work, connect your tools, and let your team focus on higher-value tasks.</span>"
+              },
+              {
+                "_id": "0bt000c",
+                "label": "Can you work with our current team?",
+                "token": "__RO_TEXT_12__",
+                "copy": " Can you work with our current team? "
+              },
+              {
+                "_id": "0bt000d",
+                "label": "Yes. We can lead strategy, support your internal staff, or fill a spec",
+                "token": "__RO_TEXT_13__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We can lead strategy, support your internal staff, or fill a specific skills gap. Our role stays flexible while objectives remain clear.</span>"
+              },
+              {
+                "_id": "0bt000e",
+                "label": "Do you work with businesses in different industries?",
+                "token": "__RO_TEXT_14__",
+                "copy": " Do you work with businesses in different industries? "
+              },
+              {
+                "_id": "0bt000f",
+                "label": "Yes. We start by learning your market, offer, and audience. That insig",
+                "token": "__RO_TEXT_15__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We start by learning your market, offer, and audience. That insight shapes a useful approach instead of a generic formula.</span>"
+              },
+              {
+                "_id": "0bt0010",
+                "label": "Can you help if our channels feel disconnected?",
+                "token": "__RO_TEXT_16__",
+                "copy": " Can you help if our channels feel disconnected? "
+              },
+              {
+                "_id": "0bt0011",
+                "label": "Yes. We review your platforms, messaging, website, and user journey, t",
+                "token": "__RO_TEXT_17__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Yes. We review your platforms, messaging, website, and user journey, then show you where stronger links reduce waste and improve conversion paths.</span>"
+              },
+              {
+                "_id": "0bt0012",
+                "label": "How do you measure success?",
+                "token": "__RO_TEXT_18__",
+                "copy": " How do you measure success? "
+              },
+              {
+                "_id": "0bt0013",
+                "label": "We agree on meaningful benchmarks before work begins. Depending on you",
+                "token": "__RO_TEXT_19__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">We agree on meaningful benchmarks before work begins. Depending on your business, we may track qualified leads, sales, revenue, or other useful performance signals.</span>"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "0bm0000",
+                "label": "elementor-background-video-hosted",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0069-FAQs-2.mp4"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

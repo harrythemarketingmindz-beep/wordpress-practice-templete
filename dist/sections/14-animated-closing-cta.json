@@ -1,0 +1,92 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Animated closing call to action",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b00000d",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Animated closing call to action",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000d",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "footer-1",
+            "text_items": [
+              {
+                "_id": "0dt0000",
+                "label": "100+ Happy Clients",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n                100+ Happy Clients\n            "
+              },
+              {
+                "_id": "0dt0001",
+                "label": "Build \u2022 Grow \u2022 Scale",
+                "token": "__RO_TEXT_1__",
+                "copy": "\n                Build \u2022 Grow \u2022 Scale\n            "
+              },
+              {
+                "_id": "0dt0002",
+                "label": "Creative + Technology",
+                "token": "__RO_TEXT_2__",
+                "copy": "\n                Creative + Technology\n            "
+              },
+              {
+                "_id": "0dt0003",
+                "label": "Turn Your Vision Into Real Progress",
+                "token": "__RO_TEXT_3__",
+                "copy": "\n                Turn Your Vision\n                <strong class=\"two_elementor_element\">Into Real Progress</strong>\n            "
+              },
+              {
+                "_id": "0dt0004",
+                "label": "Get clear direction and practical digital solutions designed around yo",
+                "token": "__RO_TEXT_4__",
+                "copy": "\n                Get clear direction and practical digital solutions designed around your business goals.\n            "
+              },
+              {
+                "_id": "0dt0005",
+                "label": "Explore Your Opportunities",
+                "token": "__RO_TEXT_5__",
+                "copy": "Explore Your Opportunities"
+              }
+            ],
+            "media_items": [],
+            "link_items": [
+              {
+                "_id": "0dl0000",
+                "label": "Explore Your Opportunities \u2197",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "#contact"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

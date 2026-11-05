@@ -1,0 +1,463 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Footer & payment logos",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b00000f",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Footer & payment logos",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a00000f",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "footer-3",
+            "text_items": [
+              {
+                "_id": "0ft0000",
+                "label": "Rank Orbit helps ambitious brands grow through smart strategy and meas",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n                        Rank Orbit helps ambitious brands grow through\n                        smart strategy and measurable digital solutions\n                        that attract customers, strengthen visibility,\n                        and support lasting business success.\n                    "
+              },
+              {
+                "_id": "0ft0001",
+                "label": "Quick Links",
+                "token": "__RO_TEXT_1__",
+                "copy": "Quick Links"
+              },
+              {
+                "_id": "0ft0002",
+                "label": "Home",
+                "token": "__RO_TEXT_2__",
+                "copy": "\n                            <a href=\"__RO_LINK_6__\" class=\"two_elementor_element\">\n                                Home\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0003",
+                "label": "About Us",
+                "token": "__RO_TEXT_3__",
+                "copy": "\n                            <a href=\"__RO_LINK_7__\" class=\"two_elementor_element\">\n                                About Us\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0004",
+                "label": "Services",
+                "token": "__RO_TEXT_4__",
+                "copy": "\n                            <a href=\"__RO_LINK_8__\" class=\"two_elementor_element\">\n                                Services\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0005",
+                "label": "Blog",
+                "token": "__RO_TEXT_5__",
+                "copy": "\n                            <a href=\"__RO_LINK_9__\" class=\"two_elementor_element\">\n                                Blog\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0006",
+                "label": "Contact Us",
+                "token": "__RO_TEXT_6__",
+                "copy": "\n                            <a href=\"__RO_LINK_10__\" class=\"two_elementor_element\">\n                                Contact Us\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0007",
+                "label": "Get a Free Proposal",
+                "token": "__RO_TEXT_7__",
+                "copy": "\n                            <a href=\"__RO_LINK_11__\" class=\"two_elementor_element\">\n                                Get a Free Proposal\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft0008",
+                "label": "Our Services",
+                "token": "__RO_TEXT_8__",
+                "copy": "Our Services"
+              },
+              {
+                "_id": "0ft0009",
+                "label": "Digital Marketing",
+                "token": "__RO_TEXT_9__",
+                "copy": "\n                            <a href=\"__RO_LINK_12__\" class=\"two_elementor_element\">\n                                Digital Marketing\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000a",
+                "label": "Web Design & Development",
+                "token": "__RO_TEXT_10__",
+                "copy": "\n                            <a href=\"__RO_LINK_13__\" class=\"two_elementor_element\">\n                                Web Design &amp; Development\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000b",
+                "label": "Custom Development",
+                "token": "__RO_TEXT_11__",
+                "copy": "\n                            <a href=\"__RO_LINK_14__\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"two_elementor_element\">\n                                Custom Development\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000c",
+                "label": "Video & Animation",
+                "token": "__RO_TEXT_12__",
+                "copy": "\n                            <a href=\"__RO_LINK_15__\" class=\"two_elementor_element\">\n                                Video &amp; Animation\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000d",
+                "label": "SEO & Content Writing",
+                "token": "__RO_TEXT_13__",
+                "copy": "\n                            <a href=\"__RO_LINK_16__\" class=\"two_elementor_element\">\n                                SEO &amp; Content Writing\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000e",
+                "label": "Branding & Identity",
+                "token": "__RO_TEXT_14__",
+                "copy": "\n                            <a href=\"__RO_LINK_17__\" class=\"two_elementor_element\">\n                                Branding &amp; Identity\n                            </a>\n                        "
+              },
+              {
+                "_id": "0ft000f",
+                "label": "Contact Us",
+                "token": "__RO_TEXT_15__",
+                "copy": "Contact Us"
+              },
+              {
+                "_id": "0ft0010",
+                "label": "\u2726",
+                "token": "__RO_TEXT_16__",
+                "copy": "\n                        \u2726\n                    "
+              },
+              {
+                "_id": "0ft0011",
+                "label": "Rank Orbit Certified",
+                "token": "__RO_TEXT_17__",
+                "copy": "\n                        Rank Orbit Certified\n                    "
+              },
+              {
+                "_id": "0ft0012",
+                "label": "BBB Accredited Business",
+                "token": "__RO_TEXT_18__",
+                "copy": "\n                        BBB Accredited Business\n                    "
+              },
+              {
+                "_id": "0ft0013",
+                "label": "Trust Score 100",
+                "token": "__RO_TEXT_19__",
+                "copy": "\n                        Trust Score 100\n                    "
+              },
+              {
+                "_id": "0ft0014",
+                "label": "Chamber of Commerce.com",
+                "token": "__RO_TEXT_20__",
+                "copy": "\n                        Chamber of Commerce.com\n                    "
+              },
+              {
+                "_id": "0ft0015",
+                "label": "\u2197",
+                "token": "__RO_TEXT_21__",
+                "copy": "\n                        \u2197\n                    "
+              },
+              {
+                "_id": "0ft0016",
+                "label": "\u00a9 2026 Rank Orbit LLC. All Rights Reserved.",
+                "token": "__RO_TEXT_22__",
+                "copy": "\n                        \u00a9 2026                        Rank Orbit LLC. All Rights Reserved.\n                    "
+              },
+              {
+                "_id": "0ft0017",
+                "label": "Terms of Service",
+                "token": "__RO_TEXT_23__",
+                "copy": "\n                        Terms of Service\n                    "
+              },
+              {
+                "_id": "0ft0018",
+                "label": "Privacy Policy",
+                "token": "__RO_TEXT_24__",
+                "copy": "\n                        Privacy Policy\n                    "
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "0fm0000",
+                "label": "Rank Orbit",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0005-logo-e1785353786990.png"
+                }
+              },
+              {
+                "_id": "0fm0001",
+                "label": "Scan Rank Orbit QR Code",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0071-Zelle-Jpg-715x1024-1.jpg"
+                }
+              },
+              {
+                "_id": "0fm0002",
+                "label": "Rank Orbit ISO Certified",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0072-Group-2085661036.png"
+                }
+              },
+              {
+                "_id": "0fm0003",
+                "label": "BBB Accredited Business",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0073-782baafc4219f88f3cd2d796de2fcaf363377cd6.png"
+                }
+              },
+              {
+                "_id": "0fm0004",
+                "label": "Scam Adviser Trust Score 100",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0074-9240ad696721583156e731f724460eb4b6b351a4-scaled.png"
+                }
+              },
+              {
+                "_id": "0fm0005",
+                "label": "Chamber of Commerce",
+                "token": "__RO_MEDIA_5__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0075-166a71e940d132a1da798e3ca67fb9e557806fff-scaled.png"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "0fl0000",
+                "label": "Link",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "0fl0001",
+                "label": "Link",
+                "token": "__RO_LINK_1__",
+                "target": {
+                  "url": "https://www.facebook.com/rankorbit"
+                }
+              },
+              {
+                "_id": "0fl0002",
+                "label": "Link",
+                "token": "__RO_LINK_2__",
+                "target": {
+                  "url": "https://www.instagram.com/rankorbit/"
+                }
+              },
+              {
+                "_id": "0fl0003",
+                "label": "Link",
+                "token": "__RO_LINK_3__",
+                "target": {
+                  "url": "https://www.youtube.com/@rankorbit"
+                }
+              },
+              {
+                "_id": "0fl0004",
+                "label": "Link",
+                "token": "__RO_LINK_4__",
+                "target": {
+                  "url": "https://www.linkedin.com/company/rank-orbit/"
+                }
+              },
+              {
+                "_id": "0fl0005",
+                "label": "Link",
+                "token": "__RO_LINK_5__",
+                "target": {
+                  "url": "https://x.com/rank_orbit"
+                }
+              },
+              {
+                "_id": "0fl0006",
+                "label": "Home",
+                "token": "__RO_LINK_6__",
+                "target": {
+                  "url": "#"
+                }
+              },
+              {
+                "_id": "0fl0007",
+                "label": "About Us",
+                "token": "__RO_LINK_7__",
+                "target": {
+                  "url": "https://rankorbit.com/about/"
+                }
+              },
+              {
+                "_id": "0fl0008",
+                "label": "Services",
+                "token": "__RO_LINK_8__",
+                "target": {
+                  "url": "https://rankorbit.com/services/"
+                }
+              },
+              {
+                "_id": "0fl0009",
+                "label": "Blog",
+                "token": "__RO_LINK_9__",
+                "target": {
+                  "url": "https://rankorbit.com/blog/"
+                }
+              },
+              {
+                "_id": "0fl000a",
+                "label": "Contact Us",
+                "token": "__RO_LINK_10__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "0fl000b",
+                "label": "Get a Free Proposal",
+                "token": "__RO_LINK_11__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "0fl000c",
+                "label": "Digital Marketing",
+                "token": "__RO_LINK_12__",
+                "target": {
+                  "url": "https://rankorbit.com/digital-marketing/"
+                }
+              },
+              {
+                "_id": "0fl000d",
+                "label": "Web Design & Development",
+                "token": "__RO_LINK_13__",
+                "target": {
+                  "url": "https://rankorbit.com/development/"
+                }
+              },
+              {
+                "_id": "0fl000e",
+                "label": "Custom Development",
+                "token": "__RO_LINK_14__",
+                "target": {
+                  "url": "https://rankorbit.dev/"
+                }
+              },
+              {
+                "_id": "0fl000f",
+                "label": "Video & Animation",
+                "token": "__RO_LINK_15__",
+                "target": {
+                  "url": "https://rankorbit.com/media-production/"
+                }
+              },
+              {
+                "_id": "0fl0010",
+                "label": "SEO & Content Writing",
+                "token": "__RO_LINK_16__",
+                "target": {
+                  "url": "https://rankorbit.com/seo/"
+                }
+              },
+              {
+                "_id": "0fl0011",
+                "label": "Branding & Identity",
+                "token": "__RO_LINK_17__",
+                "target": {
+                  "url": "https://rankorbit.com/brand-identity/"
+                }
+              },
+              {
+                "_id": "0fl0012",
+                "label": "(559) 900-2336 Contact Number",
+                "token": "__RO_LINK_18__",
+                "target": {
+                  "url": "tel:+15599002336"
+                }
+              },
+              {
+                "_id": "0fl0013",
+                "label": "Sales@rankorbit.com Email Address",
+                "token": "__RO_LINK_19__",
+                "target": {
+                  "url": "mailto:Sales@rankorbit.com"
+                }
+              },
+              {
+                "_id": "0fl0014",
+                "label": "Head Office (USA) 1187 N Willow Ave #103-812 Clovis, CA 93611",
+                "token": "__RO_LINK_20__",
+                "target": {
+                  "url": "https://share.google/KhXfH5qgkEba5cnON"
+                }
+              },
+              {
+                "_id": "0fl0015",
+                "label": "Rank Orbit Certified",
+                "token": "__RO_LINK_21__",
+                "target": {
+                  "url": "https://www.iafcertsearch.org/certification/2x5ig5dgCnEUYx7yY6KCHiRF"
+                }
+              },
+              {
+                "_id": "0fl0016",
+                "label": "BBB Accredited Business",
+                "token": "__RO_LINK_22__",
+                "target": {
+                  "url": "https://www.bbb.org/us/ca/clovis/profile/internet-marketing-services/rank-orbit-1126-1000144879a"
+                }
+              },
+              {
+                "_id": "0fl0017",
+                "label": "Trust Score 100",
+                "token": "__RO_LINK_23__",
+                "target": {
+                  "url": "https://www.scamadviser.com/check-website/rankorbit.com"
+                }
+              },
+              {
+                "_id": "0fl0018",
+                "label": "Chamber of Commerce.com",
+                "token": "__RO_LINK_24__",
+                "target": {
+                  "url": "https://www.chamberofcommerce.com/business-directory/california/clovis/marketing-agency/2033706740-rank-orbit-llc"
+                }
+              },
+              {
+                "_id": "0fl0019",
+                "label": "Terms of Service",
+                "token": "__RO_LINK_25__",
+                "target": {
+                  "url": "https://rankorbit.com/terms-and-conditions/"
+                }
+              },
+              {
+                "_id": "0fl001a",
+                "label": "Privacy Policy",
+                "token": "__RO_LINK_26__",
+                "target": {
+                  "url": "https://rankorbit.com/privacy-policy/"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

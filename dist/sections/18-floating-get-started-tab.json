@@ -1,0 +1,62 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Floating Get Started tab",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000011",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Floating Get Started tab",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000011",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "floating",
+            "text_items": [
+              {
+                "_id": "11t0000",
+                "label": "GET STARTED",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n            GET STARTED\n        "
+              }
+            ],
+            "media_items": [],
+            "link_items": [
+              {
+                "_id": "11l0000",
+                "label": "GET STARTED",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "#contact"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

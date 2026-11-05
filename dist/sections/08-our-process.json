@@ -1,0 +1,170 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Our process",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000007",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Our process",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000007",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-07",
+            "text_items": [
+              {
+                "_id": "07t0000",
+                "label": "Our Process",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n            Our Process\n        "
+              },
+              {
+                "_id": "07t0001",
+                "label": "A Clear Path from Ideas to Measurable Expansion",
+                "token": "__RO_TEXT_1__",
+                "copy": "\n            A Clear Path\n            <span class=\"two_elementor_element\">from Ideas to</span>\n            Measurable Expansion\n        "
+              },
+              {
+                "_id": "07t0002",
+                "label": "Your goals become focused actions that build momentum and deliver stro",
+                "token": "__RO_TEXT_2__",
+                "copy": "\n            Your goals become focused actions that build momentum and deliver stronger business results.\n        "
+              },
+              {
+                "_id": "07t0003",
+                "label": "01",
+                "token": "__RO_TEXT_3__",
+                "copy": "\n                    01\n                "
+              },
+              {
+                "_id": "07t0004",
+                "label": "Discover",
+                "token": "__RO_TEXT_4__",
+                "copy": "\n                    Discover\n                "
+              },
+              {
+                "_id": "07t0005",
+                "label": "Your brand goals, audience, and development challenges come into focus",
+                "token": "__RO_TEXT_5__",
+                "copy": "\n                    Your brand goals, audience, and development challenges come into focus.\n                "
+              },
+              {
+                "_id": "07t0006",
+                "label": "02",
+                "token": "__RO_TEXT_6__",
+                "copy": "\n                    02\n                "
+              },
+              {
+                "_id": "07t0007",
+                "label": "Strategize",
+                "token": "__RO_TEXT_7__",
+                "copy": "\n                    Strategize\n                "
+              },
+              {
+                "_id": "07t0008",
+                "label": "A focused plan takes shape around your strongest opportunities.",
+                "token": "__RO_TEXT_8__",
+                "copy": "\n                    A focused plan takes shape around your strongest opportunities.\n                "
+              },
+              {
+                "_id": "07t0009",
+                "label": "03",
+                "token": "__RO_TEXT_9__",
+                "copy": "\n                    03\n                "
+              },
+              {
+                "_id": "07t000a",
+                "label": "Create",
+                "token": "__RO_TEXT_10__",
+                "copy": "\n                    Create\n                "
+              },
+              {
+                "_id": "07t000b",
+                "label": "Campaigns, content, and digital experiences come to life to drive acti",
+                "token": "__RO_TEXT_11__",
+                "copy": "\n                    Campaigns, content, and digital experiences come to life to drive action.\n                "
+              },
+              {
+                "_id": "07t000c",
+                "label": "04",
+                "token": "__RO_TEXT_12__",
+                "copy": "\n                    04\n                "
+              },
+              {
+                "_id": "07t000d",
+                "label": "Grow",
+                "token": "__RO_TEXT_13__",
+                "copy": "\n                    Grow\n                "
+              },
+              {
+                "_id": "07t000e",
+                "label": "Performance insights guide continuous improvements for lasting results",
+                "token": "__RO_TEXT_14__",
+                "copy": "\n                    Performance insights guide continuous improvements for lasting results.\n                "
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "07m0000",
+                "label": "Discover",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0045-Screenshot-2026-07-31-204045-e1785512547826.png"
+                }
+              },
+              {
+                "_id": "07m0001",
+                "label": "Strategize",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0046-Screenshot-2026-07-31-205132.png"
+                }
+              },
+              {
+                "_id": "07m0002",
+                "label": "Create",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0047-Screenshot-2026-07-31-205254.png"
+                }
+              },
+              {
+                "_id": "07m0003",
+                "label": "Grow",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0048-Screenshot-2026-07-31-205347.png"
+                }
+              }
+            ],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

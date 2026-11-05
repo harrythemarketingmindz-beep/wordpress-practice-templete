@@ -1,0 +1,171 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Video testimonials",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000009",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Video testimonials",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000009",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-09",
+            "text_items": [
+              {
+                "_id": "09t0000",
+                "label": "Trusted By Businesses That Demand Results.",
+                "token": "__RO_TEXT_0__",
+                "copy": "Trusted By<br class=\"two_elementor_element\"><span class=\"two_elementor_element\"> <span class=\"gradient-text\">Businesses</span> That Demand <span class=\"gradient-text\">Results</span>.</span>"
+              },
+              {
+                "_id": "09t0001",
+                "label": "Hear from the brands who\u2019ve experienced Rank Orbit\u2019s connected approac",
+                "token": "__RO_TEXT_1__",
+                "copy": "<span style=\"font-weight: 400;\" class=\"two_elementor_element\">Hear from the brands who\u2019ve experienced Rank Orbit\u2019s connected approach firsthand, and the outcomes that came with it.</span>"
+              },
+              {
+                "_id": "09t0002",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_2__",
+                "copy": "\u25ba"
+              },
+              {
+                "_id": "09t0003",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_3__",
+                "copy": "\u25ba"
+              },
+              {
+                "_id": "09t0004",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_4__",
+                "copy": "\u25ba"
+              },
+              {
+                "_id": "09t0005",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_5__",
+                "copy": "\u25ba"
+              },
+              {
+                "_id": "09t0006",
+                "label": "\u25ba",
+                "token": "__RO_TEXT_6__",
+                "copy": "\u25ba"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "09m0000",
+                "label": "Video review 1",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0053-2-1.webp"
+                }
+              },
+              {
+                "_id": "09m0001",
+                "label": "Video review 2",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0054-8-1.webp"
+                }
+              },
+              {
+                "_id": "09m0002",
+                "label": "Video review 3",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0055-7-1.webp"
+                }
+              },
+              {
+                "_id": "09m0003",
+                "label": "Video review 4",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0056-1-1.webp"
+                }
+              },
+              {
+                "_id": "09m0004",
+                "label": "Rank Orbit video review",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0057-image-46.jpg"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "09l0000",
+                "label": "\u25ba",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2025/12/1.mp4"
+                }
+              },
+              {
+                "_id": "09l0001",
+                "label": "\u25ba",
+                "token": "__RO_LINK_1__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2025/12/2.mp4"
+                }
+              },
+              {
+                "_id": "09l0002",
+                "label": "\u25ba",
+                "token": "__RO_LINK_2__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2025/12/3.mp4"
+                }
+              },
+              {
+                "_id": "09l0003",
+                "label": "\u25ba",
+                "token": "__RO_LINK_3__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2026/09/8-1.mp4"
+                }
+              },
+              {
+                "_id": "09l0004",
+                "label": "\u25ba",
+                "token": "__RO_LINK_4__",
+                "target": {
+                  "url": "https://rankorbit.com/wp-content/uploads/2026/10/rank-orbit-review.mp4"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

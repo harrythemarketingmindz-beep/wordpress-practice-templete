@@ -1,0 +1,46 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Back to top",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000010",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Back to top",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000010",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "footer-4",
+            "text_items": [],
+            "media_items": [],
+            "link_items": []
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

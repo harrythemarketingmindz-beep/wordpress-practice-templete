@@ -1,0 +1,149 @@
+{
+  "version": "0.4",
+  "title": "RankOrbit \u2014 Hero",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "b000001",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Hero",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "css_classes": "ro-capture-container"
+      },
+      "elements": [
+        {
+          "id": "a000001",
+          "elType": "widget",
+          "widgetType": "rankorbit_capture",
+          "settings": {
+            "section_key": "home-01",
+            "text_items": [
+              {
+                "_id": "01t0000",
+                "label": "Launch Your Brand Into Next Orbit.",
+                "token": "__RO_TEXT_0__",
+                "copy": "\n        Launch Your <span class=\"ro8-gradient\">Brand</span>\n        <span class=\"ro8-line\">\n          Into Next Orbit<span class=\"ro8-period\">.</span>\n        </span>\n      "
+              },
+              {
+                "_id": "01t0001",
+                "label": "Rank Orbit is where strategy meets execution. We unite development, br",
+                "token": "__RO_TEXT_1__",
+                "copy": "\n        Rank Orbit is where strategy meets execution.\n        We unite development, branding, marketing,\n        and automation into a single system,\n        engineered to solve real business challenges\n        and deliver outcomes that matter.\n      "
+              },
+              {
+                "_id": "01t0002",
+                "label": "Get Your Growth Plan",
+                "token": "__RO_TEXT_2__",
+                "copy": "Get Your Growth Plan"
+              },
+              {
+                "_id": "01t0003",
+                "label": "Let's Talk",
+                "token": "__RO_TEXT_3__",
+                "copy": "Let's Talk"
+              },
+              {
+                "_id": "01t0004",
+                "label": "\u2605\u2605\u2605\u2605\u2605",
+                "token": "__RO_TEXT_4__",
+                "copy": "\u2605\u2605\u2605\u2605\u2605"
+              },
+              {
+                "_id": "01t0005",
+                "label": "Trusted by 2500+ Businesses Globally",
+                "token": "__RO_TEXT_5__",
+                "copy": "Trusted by 2500+ Businesses Globally"
+              }
+            ],
+            "media_items": [
+              {
+                "_id": "01m0000",
+                "label": "ro8-poster",
+                "token": "__RO_MEDIA_0__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0009-Screenshot-2026-10-10-024149.webp"
+                }
+              },
+              {
+                "_id": "01m0001",
+                "label": "ro8-video",
+                "token": "__RO_MEDIA_1__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0010-Hero-Section-Video-Rank-Orbit.mp4"
+                }
+              },
+              {
+                "_id": "01m0002",
+                "label": "lazy entered loaded",
+                "token": "__RO_MEDIA_2__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0011-80"
+                }
+              },
+              {
+                "_id": "01m0003",
+                "label": "lazy entered loaded",
+                "token": "__RO_MEDIA_3__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0012-80"
+                }
+              },
+              {
+                "_id": "01m0004",
+                "label": "lazy entered loaded",
+                "token": "__RO_MEDIA_4__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0013-80"
+                }
+              },
+              {
+                "_id": "01m0005",
+                "label": "lazy entered loaded",
+                "token": "__RO_MEDIA_5__",
+                "file": {
+                  "url": "__RO_PUBLIC__/assets/0014-80"
+                }
+              }
+            ],
+            "link_items": [
+              {
+                "_id": "01l0000",
+                "label": "Get Your Growth Plan",
+                "token": "__RO_LINK_0__",
+                "target": {
+                  "url": "#contact"
+                }
+              },
+              {
+                "_id": "01l0001",
+                "label": "Let's Talk",
+                "token": "__RO_LINK_1__",
+                "target": {
+                  "url": "#contact"
+                }
+              }
+            ]
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}
